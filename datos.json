@@ -1,1695 +1,1479 @@
 {
-  "type": "results",
-  "version": "0.6.0",
-  "content_elements": [
-    {
-      "type": "story",
-      "version": "0.10.9",
-      "content_elements": [
+    "type": "results",
+    "version": "0.6.0",
+    "content_elements": [
         {
-          "_id": "2PZJTHYOTJAZ5M2BNOZEWN6SPI",
-          "type": "text",
-          "additional_properties": {
-            "comments": [],
-            "inline_comments": []
-          },
-          "content": "Consulte el horóscopo del día de hoy para todos los signos del zodíaco. Aquí podrá encontrar las predicciones en el amor, trabajo y dinero para Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario o Piscis."
-        },
-        {
-          "_id": "RCZVZN2DWJEMNDYKMYKUIYJ7T4",
-          "type": "header",
-          "level": 2,
-          "additional_properties": {
-            "comments": [],
-            "inline_comments": []
-          },
-          "content": "Si usted nació hoy:"
-        },
-        {
-          "_id": "4O4BYTTAJZHYDLY5C7S3VRVSSI",
-          "type": "text",
-          "additional_properties": {
-            "comments": [],
-            "inline_comments": []
-          },
-          "content": "Le encanta abrazar causas imposibles. Siente que no habría nada que no pudiera derrotar con una actitud positiva. Los demás a veces, encuentran esto algo aburrido pero no pueden dejar de admirarle. Le gusta luchar por lo que cree y se le puede encontrar en el centro de protestas o de campañas políticas. Aunque no le atraiga una carrera en la política, puede tener éxito en función de asesor."
-        },
-        {
-          "_id": "PJ6WSVC5TBBELLHADZ32MA7ALQ",
-          "type": "text",
-          "additional_properties": {
-            "comments": [],
-            "inline_comments": []
-          },
-          "content": "<b>ARIES (de marzo 21 a abril 20)</b>"
-        },
-        {
-          "_id": "FRK3SCV5V5FBTD4EMSG7CMIP3A",
-          "type": "text",
-          "additional_properties": {
-            "comments": [],
-            "inline_comments": []
-          },
-          "content": "Su hogar será el centro de sus actividades y podría comenzar una tarea de mejoramiento del mismo. Posibilidad de visitas inesperadas."
-        },
-        {
-          "_id": "RMFJL3PH5JEMROAJNRMCI5QSLU",
-          "type": "text",
-          "additional_properties": {
-            "comments": [],
-            "inline_comments": []
-          },
-          "content": "<b>TAURO (de abril 21 a mayo 20)</b>"
-        },
-        {
-          "_id": "XZDFDG7UVRASVCHQHPGEVR6G2M",
-          "type": "text",
-          "additional_properties": {
-            "comments": [],
-            "inline_comments": []
-          },
-          "content": "No tema decir lo que piensa respecto a lo que sucediera en el trabajo. Cierto compañero estará usando a otro sin disimulo. Descanse bien esta noche."
-        },
-        {
-          "_id": "GZHTV4JAKZEXRGJ2QK63T2MYLU",
-          "type": "text",
-          "additional_properties": {
-            "comments": [],
-            "inline_comments": []
-          },
-          "content": "<b>GEMINIS (de mayo 22 a junio 21)</b>"
-        },
-        {
-          "_id": "AKG7MFJIBBDB5IJN5L7LT56GGU",
-          "type": "text",
-          "additional_properties": {
-            "comments": [],
-            "inline_comments": []
-          },
-          "content": "En cuanto volviera a comunicarse con alguien de su pasado, la paz reinara otra vez en el ámbito hogareño. En el trabajo, mantenga un perfil bajo."
-        },
-        {
-          "_id": "ANWM36KISZH4REWCOYWY5U26EA",
-          "type": "text",
-          "additional_properties": {
-            "comments": [],
-            "inline_comments": []
-          },
-          "content": "<b>CANCER (de junio 22 a julio 23)</b>"
-        },
-        {
-          "_id": "YO4MTCF5HBESXB6SRU3ILODTNI",
-          "type": "text",
-          "additional_properties": {
-            "comments": [],
-            "inline_comments": []
-          },
-          "content": "Evite a alguien que todo lo que querrá es pelear por el sólo hecho de buscar conflictos. Ocúpese de sus tareas inmediatas."
-        },
-        {
-          "_id": "5ATMT7X6WFFEBP5NLHZAKBY34A",
-          "type": "text",
-          "additional_properties": {
-            "comments": [],
-            "inline_comments": []
-          },
-          "content": "<b>LEO (de julio 24 a agosto 23)</b>"
-        },
-        {
-          "_id": "2CW6TALSBNAWLCUFB34WJOZAWY",
-          "type": "text",
-          "additional_properties": {
-            "comments": [],
-            "inline_comments": []
-          },
-          "content": "Por la mañana sentirá un creciente mal humor. Seleccione sus tareas tanto en el hogar como en el trabajo. Los superiores escucharán sus sugerencias."
-        },
-        {
-          "_id": "7MQTZOZWEZBRJMFE7EGYWAONHU",
-          "type": "text",
-          "additional_properties": {
-            "comments": [],
-            "inline_comments": []
-          },
-          "content": "<b>VIRGO (de agosto 24 a septiembre 23)</b>"
-        },
-        {
-          "_id": "V2UX4AE24BAT3D2YCLRA4BWEDA",
-          "type": "text",
-          "additional_properties": {
-            "comments": [],
-            "inline_comments": []
-          },
-          "content": "Será buena idea dedicar más tiempo al ser amado ya que se sentirá abandonado. No por eso olvide sus obligaciones laborales. La noche traerá la unión."
-        },
-        {
-          "_id": "HLTSGCJQ3ZGNJAHINFWPSLAW3M",
-          "type": "text",
-          "additional_properties": {
-            "comments": [],
-            "inline_comments": []
-          },
-          "content": "<b>LIBRA (de septiembre 24 a octubre 23)</b>"
-        },
-        {
-          "_id": "26V4VKK6S5F2TOQJVDZT7L2L3E",
-          "type": "text",
-          "additional_properties": {
-            "comments": [],
-            "inline_comments": []
-          },
-          "content": "Continuará mostrándose productivo y terminará muchas tareas, pero no descuide su salud y bienestar. Necesitará descansar más."
-        },
-        {
-          "_id": "GCBXGPMIOVC7ZKDJ7W7WXLUTQA",
-          "type": "text",
-          "additional_properties": {
-            "comments": [],
-            "inline_comments": []
-          },
-          "content": "<b>ESCORPIO (de octubre 24 a nov. 22)</b>"
-        },
-        {
-          "_id": "WFYLKAC75VFORC4GAQYSO73XF4",
-          "type": "text",
-          "additional_properties": {
-            "comments": [],
-            "inline_comments": []
-          },
-          "content": "Tendrá mucho trabajo por hacer, pero no se sienta descorazonado. Comience despacio y metódicamente. Terminará todo lo que se habría propuesto."
-        },
-        {
-          "_id": "RX4WBTMJDFEVJORC63JIZ32KMY",
-          "type": "text",
-          "additional_properties": {
-            "comments": [],
-            "inline_comments": []
-          },
-          "content": "<b>SAGITARIO (de nov. 23 a diciembre 21)</b>"
-        },
-        {
-          "_id": "SB2YOXZSJNEKNBHL5CLLLBYLFQ",
-          "type": "text",
-          "additional_properties": {
-            "comments": [],
-            "inline_comments": []
-          },
-          "content": "Comenzará a ver su situación bajo una luz más favorable. Alguien que se había opuesto a sus ideas ahora estará de su parte. Aproveche su cooperación."
-        },
-        {
-          "_id": "H3325KEJSFFUNDDILOKKONSU2Y",
-          "type": "text",
-          "additional_properties": {
-            "comments": [],
-            "inline_comments": []
-          },
-          "content": "<b>CAPRICORNIO (de dic. 22 a enero 20)</b>"
-        },
-        {
-          "_id": "AMZVKE57VZHAZFRPCCKE7QQP7U",
-          "type": "text",
-          "additional_properties": {
-            "comments": [],
-            "inline_comments": []
-          },
-          "content": "Tendrá que aclarar situaciones pendientes, pero no se sorprenda si sus palabras no son recibidas con amabilidad. Posible obsequio romántico."
-        },
-        {
-          "_id": "332KXLMEOBEN5LUTASTOLCBIN4",
-          "type": "text",
-          "additional_properties": {
-            "comments": [],
-            "inline_comments": []
-          },
-          "content": "<b>ACUARIO (de enero 21 a febrero 19)</b>"
-        },
-        {
-          "_id": "PUEDGI6OZBHCNBWCAKNA2JZVPM",
-          "type": "text",
-          "additional_properties": {
-            "comments": [],
-            "inline_comments": []
-          },
-          "content": "El ser amado no estará de buen humor y podría mostrarse petulante. No permita que eso le altere. En el trabajo, un problema requerirá de su atención."
-        },
-        {
-          "_id": "FXVHQUU5TVE3XBDDQWTEUUFTOQ",
-          "type": "text",
-          "additional_properties": {
-            "comments": [],
-            "inline_comments": []
-          },
-          "content": "<b>PISCIS (de febrero 20 a marzo 20)</b>"
-        },
-        {
-          "_id": "OE7C3CT7DJG6DB374OFP7O3WDY",
-          "type": "text",
-          "additional_properties": {
-            "comments": [],
-            "inline_comments": []
-          },
-          "content": "No estará concentrado en sus tareas inmediatas. Pero con un poco de esfuerzo las terminará sin contratiempos. Acepte la ayuda del ser amado. <b>(E)</b>"
-        }
-      ],
-      "created_date": "2023-06-12T14:52:38.228Z",
-      "revision": {
-        "revision_id": "FJ4C3GFWTNGADL2NWL5VLJB4CM",
-        "parent_id": "QG3AL45DJNGTJGETHFX5SLZTQM",
-        "editions": ["default"],
-        "branch": "default",
-        "user_id": "rfalconi@eluniverso.com",
-        "published": true
-      },
-      "last_updated_date": "2023-06-13T05:00:01.914Z",
-      "headlines": {
-        "basic": "Horóscopo de hoy martes 13 de junio de 2023, consulta tu signo zodiacal",
-        "meta_title": "",
-        "mobile": "",
-        "native": "",
-        "print": "",
-        "tablet": "",
-        "web": ""
-      },
-      "owner": {
-        "sponsored": false,
-        "id": "eluniverso"
-      },
-      "content_restrictions": {
-        "content_code": "no_premium"
-      },
-      "copyright": "staff",
-      "address": {},
-      "workflow": {
-        "note": "",
-        "status_code": 5
-      },
-      "subheadlines": {
-        "basic": ""
-      },
-      "description": {
-        "basic": "Consulta el horóscopo del día de hoy para todos los signos del zodíaco."
-      },
-      "language": "",
-      "label": {
-        "tiene_topico": {
-          "display": true,
-          "text": "Si",
-          "url": "true"
-        }
-      },
-      "source": {
-        "name": "eluniverso",
-        "source_type": "staff",
-        "system": "composer"
-      },
-      "taxonomy": {
-        "additional_properties": {
-          "parent_site_primaries": []
-        },
-        "primary_section": {
-          "_id": "/larevista/sociedad",
-          "_website": "el-universo",
-          "type": "section",
-          "version": "0.6.0",
-          "name": "Sociedad",
-          "description": "Encuentra noticias, fotos y videos de Sociedad en El Universo.",
-          "path": "/larevista/sociedad",
-          "parent_id": "/larevista",
-          "parent": {
-            "default": "/larevista"
-          },
-          "additional_properties": {
-            "original": {
-              "_id": "/larevista/sociedad",
-              "site": {
-                "site_tagline": null,
-                "site_url": null,
-                "site_title": "Noticias de Sociedad",
-                "site_about": null,
-                "site_description": "Encuentra noticias, fotos y videos de Sociedad en El Universo.",
-                "pagebuilder_path_for_native_apps": null,
-                "site_keywords": "Sociedad, noticias de Sociedad, guayaquil, fotos de Sociedad, videos de Sociedad"
-              },
-              "site_topper": {
-                "site_logo_image": null
-              },
-              "social": {
-                "twitter": null,
-                "rss": null,
-                "facebook": null,
-                "instagram": null
-              },
-              "navigation": {
-                "nav_title": "Sociedad"
-              },
-              "_admin": {
-                "alias_ids": ["/larevista/sociedad"]
-              },
-              "_website": "el-universo",
-              "name": "Sociedad",
-              "parent": {
-                "default": "/larevista",
-                "SideNav": "/larevista",
-                "MainMenu": "/larevista",
-                "composer": "/",
-                "sitemap": "/sitemap"
-              },
-              "ancestors": {
-                "default": ["/larevista"],
-                "SideNav": [
-                  "/",
-                  "/Sidenav",
-                  "/Sidenav/secciones",
-                  "/larevista"
-                ],
-                "MainMenu": ["/larevista"],
-                "composer": ["/"],
-                "sitemap": ["/sitemap"]
-              },
-              "inactive": false,
-              "node_type": "section",
-              "order": {
-                "SideNav": 4008,
-                "MainMenu": 2002,
-                "composer": 1043,
-                "sitemap": 2049
-              }
-            }
-          }
-        },
-        "primary_site": {
-          "_id": "/larevista/sociedad",
-          "type": "site",
-          "version": "0.5.8",
-          "name": "Sociedad",
-          "description": "Encuentra noticias, fotos y videos de Sociedad en El Universo.",
-          "path": "/larevista/sociedad",
-          "parent_id": "/larevista",
-          "additional_properties": {
-            "original": {
-              "_id": "/larevista/sociedad",
-              "site": {
-                "site_tagline": null,
-                "site_url": null,
-                "site_title": "Noticias de Sociedad",
-                "site_about": null,
-                "site_description": "Encuentra noticias, fotos y videos de Sociedad en El Universo.",
-                "pagebuilder_path_for_native_apps": null,
-                "site_keywords": "Sociedad, noticias de Sociedad, guayaquil, fotos de Sociedad, videos de Sociedad"
-              },
-              "site_topper": {
-                "site_logo_image": null
-              },
-              "social": {
-                "twitter": null,
-                "rss": null,
-                "facebook": null,
-                "instagram": null
-              },
-              "navigation": {
-                "nav_title": "Sociedad"
-              },
-              "_admin": {
-                "alias_ids": ["/larevista/sociedad"]
-              },
-              "name": "Sociedad",
-              "parent": {
-                "default": "/larevista",
-                "SideNav": "/larevista",
-                "MainMenu": "/larevista",
-                "composer": "/",
-                "sitemap": "/sitemap"
-              },
-              "ancestors": {
-                "default": ["/larevista"],
-                "SideNav": [
-                  "/",
-                  "/Sidenav",
-                  "/Sidenav/secciones",
-                  "/larevista"
-                ],
-                "MainMenu": ["/larevista"],
-                "composer": ["/"],
-                "sitemap": ["/sitemap"]
-              },
-              "inactive": false,
-              "node_type": "section",
-              "order": {
-                "SideNav": 4008,
-                "MainMenu": 2002,
-                "composer": 1043,
-                "sitemap": 2049
-              }
-            }
-          }
-        },
-        "sections": [
-          {
-            "_id": "/larevista/sociedad",
-            "_website": "el-universo",
-            "type": "section",
-            "version": "0.6.0",
-            "name": "Sociedad",
-            "description": "Encuentra noticias, fotos y videos de Sociedad en El Universo.",
-            "path": "/larevista/sociedad",
-            "parent_id": "/larevista",
-            "parent": {
-              "default": "/larevista"
-            },
             "additional_properties": {
-              "original": {
-                "_id": "/larevista/sociedad",
-                "site": {
-                  "site_tagline": null,
-                  "site_url": null,
-                  "site_title": "Noticias de Sociedad",
-                  "site_about": null,
-                  "site_description": "Encuentra noticias, fotos y videos de Sociedad en El Universo.",
-                  "pagebuilder_path_for_native_apps": null,
-                  "site_keywords": "Sociedad, noticias de Sociedad, guayaquil, fotos de Sociedad, videos de Sociedad"
+                "clipboard": {},
+                "has_published_copy": true,
+                "is_published": true,
+                "publish_date": "2023-06-15T18:15:52.86Z"
+            },
+            "address": {},
+            "canonical_website": "el-universo",
+            "content_elements": [
+                {
+                    "_id": "PNK7E6UEMRD65GFWQRAZ7JBRGI",
+                    "additional_properties": {
+                        "_id": 1612809709211,
+                        "comments": [],
+                        "inline_comments": []
+                    },
+                    "content": "La pérdida de un familiar significa un dolor inmenso para las familias. El fallecimiento de una persona también se vincula con una serie de procesos que se deben seguir como arreglar documentación y hasta manejo de herencias, deudas y cuentas bancarias.",
+                    "type": "text"
                 },
-                "site_topper": {
-                  "site_logo_image": null
+                {
+                    "_id": "QQR2FJ2CKBBHHMOD3KJSIRY7U4",
+                    "additional_properties": {
+                        "_id": 1686590591405,
+                        "comments": [],
+                        "inline_comments": []
+                    },
+                    "content": "En Ecuador, el número de personas con cuentas bancarias es de 8,2 millones, es decir, un 64,2 % de las personas mayores de 15 años. ¿Qué pasa con estas luego del fallecimiento del titular de una cuenta? Es muy sencillo creer que el dinero quedará ahí congelado, pues el dueño de la cuenta no está presente para realizar movimientos, pero legalmente, sí es posible que un familia retire el dinero.",
+                    "type": "text"
                 },
-                "social": {
-                  "twitter": null,
-                  "rss": null,
-                  "facebook": null,
-                  "instagram": null
+                {
+                    "_id": "KUSQTNTSJREZ3CM5YYX24E2PAY",
+                    "additional_properties": {
+                        "_id": 1686590591406,
+                        "comments": [],
+                        "inline_comments": []
+                    },
+                    "content": "De acuerdo a las entidades bancarias, cuando un titular de la cuenta fallece,<b> los familiares deben acercarse a las entidades financieras para realizar el procedimiento de recuperación del dinero.</b>",
+                    "type": "text"
                 },
-                "navigation": {
-                  "nav_title": "Sociedad"
+                {
+                    "_id": "T2RJ3KGGENCKJH45XE3ZTVQQ3I",
+                    "additional_properties": {
+                        "_id": 1686851718306,
+                        "comments": [],
+                        "inline_comments": []
+                    },
+                    "content": "Lo ideal es acercarse a la entidad bancaria y mostrar documentación desde el certificado de fallecimiento del titular de la cuenta y documentación que cada empresa puede solicitar. Dependiendo de cada entidad bancaria los documentos y requisitos pueden variar. A partir de cierto valor es necesario presentar la posesión efectiva es un trámite para establecer quiénes son los herederos de una persona fallecida y los bienes que forman parte de la herencia. Este monto varía en algunos bancos.",
+                    "type": "text"
                 },
-                "_admin": {
-                  "alias_ids": ["/larevista/sociedad"]
+                {
+                    "_id": "UOGBLF4XBNBVBG52MP3HAD5E6Y",
+                    "additional_properties": {
+                        "_id": 1686590591407,
+                        "comments": [],
+                        "inline_comments": []
+                    },
+                    "content": "En el caso particular del Banco de Guayaquil, en su<a href=\"https://ayuda.bancoguayaquil.com/hc/es/articles/360058150772--Qu%C3%A9-debo-hacer-si-el-titular-de-la-cuenta-falleci%C3%B3-\" target=\"_blank\"> sitio web</a> se detalla que si el monto es de hasta 500 dólares, el familiar deberá presentar lo siguientes documentos.",
+                    "type": "text"
                 },
-                "_website": "el-universo",
-                "name": "Sociedad",
-                "parent": {
-                  "default": "/larevista",
-                  "SideNav": "/larevista",
-                  "MainMenu": "/larevista",
-                  "composer": "/",
-                  "sitemap": "/sitemap"
+                {
+                    "_id": "PDF46RZNTZBD5MV5TNMZE43QVQ",
+                    "additional_properties": {
+                        "comments": [],
+                        "inline_comments": []
+                    },
+                    "items": [
+                        {
+                            "_id": "NPCF2KZ4JRFQPGAN6CAMDL5ULE",
+                            "additional_properties": {
+                                "comments": [],
+                                "inline_comments": []
+                            },
+                            "block_properties": {},
+                            "content": "Certificado de defunción.",
+                            "type": "text"
+                        },
+                        {
+                            "_id": "IZDUCNLCNRB7LD37EHAEHCQSQ4",
+                            "additional_properties": {
+                                "comments": [],
+                                "inline_comments": []
+                            },
+                            "block_properties": {},
+                            "content": "Cédulas vigentes del heredero o cónyuge.",
+                            "type": "text"
+                        },
+                        {
+                            "_id": "AJFGBNZEUNEOFKMTVXP3ZP52QA",
+                            "additional_properties": {
+                                "comments": [],
+                                "inline_comments": []
+                            },
+                            "block_properties": {},
+                            "content": "Carta o poder autorizado a un heredero o cónyuge para que solo uno de ellos retire los valores y cierre la cuenta.",
+                            "type": "text"
+                        },
+                        {
+                            "_id": "DIJZBHCS6NFCXNZFKZTUAQ6NG4",
+                            "additional_properties": {
+                                "comments": [],
+                                "inline_comments": []
+                            },
+                            "block_properties": {},
+                            "content": "Pago del impuesto a la herencia por cada heredero.",
+                            "type": "text"
+                        }
+                    ],
+                    "list_type": "unordered",
+                    "type": "list"
                 },
-                "ancestors": {
-                  "default": ["/larevista"],
-                  "SideNav": [
-                    "/",
-                    "/Sidenav",
-                    "/Sidenav/secciones",
-                    "/larevista"
-                  ],
-                  "MainMenu": ["/larevista"],
-                  "composer": ["/"],
-                  "sitemap": ["/sitemap"]
+                {
+                    "_id": "YPHNAAQCRVFT7FJGBELDUEFGTE",
+                    "additional_properties": {
+                        "_id": 1686590591409,
+                        "comments": [],
+                        "inline_comments": []
+                    },
+                    "content": "<b>Por otro lado, si el monto el valor antes mencionado, el procedimiento es el siguiente.</b>",
+                    "type": "text"
                 },
-                "inactive": false,
-                "node_type": "section",
-                "order": {
-                  "SideNav": 4008,
-                  "MainMenu": 2002,
-                  "composer": 1043,
-                  "sitemap": 2049
+                {
+                    "_id": "U4WF2PDWUNCXXMFGG3A4Q5AZNQ",
+                    "additional_properties": {
+                        "comments": [],
+                        "inline_comments": []
+                    },
+                    "items": [
+                        {
+                            "_id": "HXQUWWSM2FF3HH6LURSYSXO7TM",
+                            "additional_properties": {
+                                "comments": [],
+                                "inline_comments": []
+                            },
+                            "block_properties": {},
+                            "content": "Escritura de Posesión Efectiva (certificado de defunción, partidas de matrimonio y de nacimiento)",
+                            "type": "text"
+                        },
+                        {
+                            "_id": "IHED7ALCLBCMTNRN5TRJZQV3QM",
+                            "additional_properties": {
+                                "comments": [],
+                                "inline_comments": []
+                            },
+                            "block_properties": {},
+                            "content": "Cédulas vigentes del heredero o cónyuge.",
+                            "type": "text"
+                        },
+                        {
+                            "_id": "BSJKHUJHIZDEBKPADNFTLI7QRE",
+                            "additional_properties": {
+                                "comments": [],
+                                "inline_comments": []
+                            },
+                            "block_properties": {},
+                            "content": "Carta o poder autorizado a un heredero o cónyuge para que solo uno de ellos retire los valores y cierre la cuenta.",
+                            "type": "text"
+                        },
+                        {
+                            "_id": "MWFQH3U3CRGWXLCHQ6RVUOZGXY",
+                            "additional_properties": {
+                                "comments": [],
+                                "inline_comments": []
+                            },
+                            "block_properties": {},
+                            "content": "Pago del impuesto a la herencia por cada heredero.",
+                            "type": "text"
+                        }
+                    ],
+                    "list_type": "unordered",
+                    "type": "list"
+                },
+                {
+                    "_id": "N3ZFB4RNUFD5BB7SWWXEIDOB74",
+                    "additional_properties": {
+                        "_id": 1686590591411,
+                        "comments": [],
+                        "inline_comments": []
+                    },
+                    "content": "La <a href=\"https://www.eluniverso.com/noticias/2020/06/01/nota/7857768/posesiones-tramites-bienes-fallecidos-pandemia-covid-19/\" target=\"_blank\"><b>posesión efectiva</b></a> es un trámite para establecer quiénes son los herederos de una persona fallecida y los bienes que forman parte de la herencia, de forma que éstos puedan disponer de la masa hereditaria, siempre que no exista un testamento de por medio. En Banco Pichincha se requiere este documento a partir de $1500.",
+                    "type": "text"
+                },
+                {
+                    "_id": "TUNYIWAT2NBEDKYN5T4KFXTD6U",
+                    "additional_properties": {
+                        "_id": 1686590591412,
+                        "comments": [],
+                        "inline_comments": []
+                    },
+                    "content": "Es importante destacar que al retirar el dinero, el o los familiares se <a href=\"https://www.eluniverso.com/noticias/economia/cuando-prescribe-el-derecho-a-reclamar-una-herencia-nota/\" target=\"_blank\"><b>hacen acreedores a una herencia.</b></a> Los herederos se hacen dueños de todas las cosas, bienes o activos que tenía esa persona, pero también quedan obligados a pagar todas las deudas, obligaciones o pasivos de esa persona. Por ello es un buen consejo pagar el <a href=\"https://www.eluniverso.com/noticias/2020/04/27/nota/7825035/seguro-desgravamen-deuda-credito-muerte-coronavirus-ecuador/?modulo=interstitial_link&seccion=Noticias&subseccion=Informes&origen=/noticias/informes/que-pasa-cuando-un-trabajador-fallece-estos-son-los-derechos-de-los-familiares-sobre-sus-ingresos-nota/\" target=\"_blank\"><b>seguro de desgravamen en préstamos o trarjetas de crédito</b></a>.",
+                    "type": "text"
+                },
+                {
+                    "_id": "ONDC5E7WDJHNNDRCZL3BPMWKSY",
+                    "additional_properties": {
+                        "_id": 1686590591413,
+                        "comments": [],
+                        "inline_comments": []
+                    },
+                    "content": "¿Qué sucede si nadie reclama el dinero?",
+                    "level": 2,
+                    "type": "header"
+                },
+                {
+                    "_id": "LSQDJ35ORBBZ7KTNL6LAPEPPIM",
+                    "additional_properties": {
+                        "_id": 1686590591414,
+                        "comments": [],
+                        "inline_comments": []
+                    },
+                    "content": "Según el Código Orgánico Monetario y Financiero, los pasivos o saldos inmovilizados ni solicitados por el lapso de 5 a 10 años por parte de herederos, pasan a la Cuenta Única del Tesoro Nacional.",
+                    "type": "text"
+                },
+                {
+                    "_id": "M4BWVMNRTZG5TM4IBAF4GPERVU",
+                    "additional_properties": {
+                        "_id": 1686590591415,
+                        "comments": [],
+                        "inline_comments": []
+                    },
+                    "content": "Sin embargo, hay una opción para evitar el trámite por reclamo. Según Galo Izurieta, subgerente comercial de la Cooperativa Andalucía, desde que se abre una cuenta bancaria, el titular puede realizar el trámite legal y ante un notario definir a quién se le entregaría el dinero en caso de fallecer.",
+                    "type": "text"
+                },
+                {
+                    "_id": "WROQ37LGYRFFTOCNPJZYVTAPEA",
+                    "additional_properties": {
+                        "_id": 1686851718316,
+                        "comments": [],
+                        "inline_comments": []
+                    },
+                    "content": "Recuerde que las cuentas de ahorro o corriente son personales e intransferibles, por lo que para seguir operando con dicha cuenta deberá cumplir con los requisitos de acuerdo a cada entidad bancaria. <b>(I)</b>",
+                    "type": "text"
                 }
-              }
-            },
-            "_website_section_id": "el-universo./larevista/sociedad"
-          },
-          {
-            "_id": "/larevista",
-            "_website": "el-universo",
-            "type": "section",
-            "version": "0.6.0",
-            "name": "La Revista",
-            "description": "La Revista es un suplemento dominical en donde engloba temas de interés de familia, tecnología, gastronomía, orientación, moda, viajes y cultura. Encontrarás fotos y vídeos de tus temas favoritos.",
-            "path": "/larevista",
-            "parent_id": "/",
-            "parent": {
-              "default": "/"
-            },
-            "additional_properties": {
-              "original": {
-                "_id": "/larevista",
-                "site": {
-                  "site_tagline": null,
-                  "site_url": null,
-                  "site_title": "La Revista",
-                  "site_about": null,
-                  "site_description": "La Revista es un suplemento dominical en donde engloba temas de interés de familia, tecnología, gastronomía, orientación, moda, viajes y cultura. Encontrarás fotos y vídeos de tus temas favoritos.",
-                  "pagebuilder_path_for_native_apps": null,
-                  "site_keywords": "familia, tecnología, gastronomía, orientación, moda, viajes y cultura"
-                },
-                "site_topper": {
-                  "site_logo_image": null,
-                  "section_color": "larevista"
-                },
-                "social": {
-                  "twitter": null,
-                  "rss": null,
-                  "facebook": null,
-                  "instagram": null
-                },
-                "navigation": {
-                  "nav_title": "La Revista"
-                },
-                "_admin": {
-                  "alias_ids": ["/larevista"]
-                },
-                "_website": "el-universo",
-                "name": "La Revista",
-                "order": {
-                  "default": 1009,
-                  "SideNav": 3008,
-                  "MainMenu": 1008,
-                  "sitemap": 2043
-                },
-                "parent": {
-                  "default": "/",
-                  "SideNav": "/Sidenav/secciones",
-                  "MainMenu": "/",
-                  "Sitemap": null,
-                  "composer": null,
-                  "sitemap": "/sitemap"
-                },
-                "ancestors": {
-                  "default": [],
-                  "SideNav": ["/", "/Sidenav", "/Sidenav/secciones"],
-                  "MainMenu": [],
-                  "Sitemap": [],
-                  "composer": [],
-                  "sitemap": ["/sitemap"]
-                },
-                "inactive": false,
-                "node_type": "section"
-              }
-            },
-            "_website_section_id": "el-universo./larevista"
-          }
-        ],
-        "sites": [
-          {
-            "_id": "/larevista/sociedad",
-            "type": "site",
-            "version": "0.5.8",
-            "name": "Sociedad",
-            "description": "Encuentra noticias, fotos y videos de Sociedad en El Universo.",
-            "path": "/larevista/sociedad",
-            "parent_id": "/larevista",
-            "additional_properties": {
-              "original": {
-                "_id": "/larevista/sociedad",
-                "site": {
-                  "site_tagline": null,
-                  "site_url": null,
-                  "site_title": "Noticias de Sociedad",
-                  "site_about": null,
-                  "site_description": "Encuentra noticias, fotos y videos de Sociedad en El Universo.",
-                  "pagebuilder_path_for_native_apps": null,
-                  "site_keywords": "Sociedad, noticias de Sociedad, guayaquil, fotos de Sociedad, videos de Sociedad"
-                },
-                "site_topper": {
-                  "site_logo_image": null
-                },
-                "social": {
-                  "twitter": null,
-                  "rss": null,
-                  "facebook": null,
-                  "instagram": null
-                },
-                "navigation": {
-                  "nav_title": "Sociedad"
-                },
-                "_admin": {
-                  "alias_ids": ["/larevista/sociedad"]
-                },
-                "name": "Sociedad",
-                "parent": {
-                  "default": "/larevista",
-                  "SideNav": "/larevista",
-                  "MainMenu": "/larevista",
-                  "composer": "/",
-                  "sitemap": "/sitemap"
-                },
-                "ancestors": {
-                  "default": ["/larevista"],
-                  "SideNav": [
-                    "/",
-                    "/Sidenav",
-                    "/Sidenav/secciones",
-                    "/larevista"
-                  ],
-                  "MainMenu": ["/larevista"],
-                  "composer": ["/"],
-                  "sitemap": ["/sitemap"]
-                },
-                "inactive": false,
-                "node_type": "section",
-                "order": {
-                  "SideNav": 4008,
-                  "MainMenu": 2002,
-                  "composer": 1043,
-                  "sitemap": 2049
-                }
-              }
-            }
-          },
-          {
-            "_id": "/larevista",
-            "type": "site",
-            "version": "0.5.8",
-            "name": "La Revista",
-            "description": "La Revista es un suplemento dominical en donde engloba temas de interés de familia, tecnología, gastronomía, orientación, moda, viajes y cultura. Encontrarás fotos y vídeos de tus temas favoritos.",
-            "path": "/larevista",
-            "parent_id": "/",
-            "additional_properties": {
-              "original": {
-                "_id": "/larevista",
-                "site": {
-                  "site_tagline": null,
-                  "site_url": null,
-                  "site_title": "La Revista",
-                  "site_about": null,
-                  "site_description": "La Revista es un suplemento dominical en donde engloba temas de interés de familia, tecnología, gastronomía, orientación, moda, viajes y cultura. Encontrarás fotos y vídeos de tus temas favoritos.",
-                  "pagebuilder_path_for_native_apps": null,
-                  "site_keywords": "familia, tecnología, gastronomía, orientación, moda, viajes y cultura"
-                },
-                "site_topper": {
-                  "site_logo_image": null,
-                  "section_color": "larevista"
-                },
-                "social": {
-                  "twitter": null,
-                  "rss": null,
-                  "facebook": null,
-                  "instagram": null
-                },
-                "navigation": {
-                  "nav_title": "La Revista"
-                },
-                "_admin": {
-                  "alias_ids": ["/larevista"]
-                },
-                "name": "La Revista",
-                "order": {
-                  "default": 1009,
-                  "SideNav": 3008,
-                  "MainMenu": 1008,
-                  "sitemap": 2043
-                },
-                "parent": {
-                  "default": "/",
-                  "SideNav": "/Sidenav/secciones",
-                  "MainMenu": "/",
-                  "Sitemap": null,
-                  "composer": null,
-                  "sitemap": "/sitemap"
-                },
-                "ancestors": {
-                  "default": [],
-                  "SideNav": ["/", "/Sidenav", "/Sidenav/secciones"],
-                  "MainMenu": [],
-                  "Sitemap": [],
-                  "composer": [],
-                  "sitemap": ["/sitemap"]
-                },
-                "inactive": false,
-                "node_type": "section"
-              }
-            }
-          }
-        ],
-        "tags": [
-          {
-            "description": "driver",
-            "slug": "driver",
-            "text": "driver"
-          },
-          {
-            "description": "Astrología",
-            "slug": "astrologia",
-            "text": "Astrología"
-          },
-          {
-            "description": "Horóscopo",
-            "slug": "horoscopo",
-            "text": "Horóscopo"
-          }
-        ]
-      },
-      "promo_items": {
-        "basic": {
-          "_id": "6A6XA7JKURDHLPKN77G42JQROA",
-          "additional_properties": {
-            "fullSizeResizeUrl": "/resizer/NSmSvFowcogVd7euP4xstuG5rN8=/arc-anglerfish-arc2-prod-eluniverso/public/6A6XA7JKURDHLPKN77G42JQROA.png",
-            "galleries": [],
-            "keywords": [],
-            "mime_type": "image/png",
-            "originalName": "horoscopoeu_1.png",
-            "originalUrl": "https://cloudfront-us-east-1.images.arcpublishing.com/eluniverso/6A6XA7JKURDHLPKN77G42JQROA.png",
-            "proxyUrl": "/resizer/NSmSvFowcogVd7euP4xstuG5rN8=/arc-anglerfish-arc2-prod-eluniverso/public/6A6XA7JKURDHLPKN77G42JQROA.png",
-            "published": true,
-            "resizeUrl": "/resizer/NSmSvFowcogVd7euP4xstuG5rN8=/arc-anglerfish-arc2-prod-eluniverso/public/6A6XA7JKURDHLPKN77G42JQROA.png",
-            "restricted": false,
-            "thumbnailResizeUrl": "/resizer/JIX8U0pmaBd1jAH1zVOj-DRy8G4=/300x0/arc-anglerfish-arc2-prod-eluniverso/public/6A6XA7JKURDHLPKN77G42JQROA.png",
-            "version": 2
-          },
-          "address": {},
-          "alt_text": "Horóscopo signo zodiacal",
-          "auth": {
-            "1": "91dadb703f2667962234b0232588566f1bd6d072aa5c1e1be950de28a641931d"
-          },
-          "caption": "Infórmate sobre la predicción del horóscopo de hoy para tu signo zodiacal.",
-          "created_date": "2021-02-11T10:30:21Z",
-          "credits": {
-            "by": [
-              {
-                "_id": "redaccion",
-                "referent": {
-                  "id": "redaccion"
-                },
-                "type": "author"
-              }
-            ]
-          },
-          "distributor": {
-            "category": "staff",
-            "mode": "custom",
-            "name": "eluniverso",
-            "subcategory": ""
-          },
-          "focal_point": {
-            "x": 0,
-            "y": 0
-          },
-          "geo": {},
-          "height": 614,
-          "image_type": "photograph",
-          "last_updated_date": "2021-02-12T18:20:39Z",
-          "licensable": false,
-          "owner": {
-            "id": "eluniverso",
-            "sponsored": false
-          },
-          "source": {
-            "name": "eluniverso",
-            "source_id": "9075721",
-            "source_type": "staff",
-            "additional_properties": {
-              "editor": "photo center"
-            },
-            "edit_url": "https://eluniverso.arcpublishing.com/photo/6A6XA7JKURDHLPKN77G42JQROA",
-            "system": "photo center",
-            "id": "cms"
-          },
-          "subtitle": "Horóscopo signo zodiacal",
-          "taxonomy": {
-            "associated_tasks": []
-          },
-          "type": "image",
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/eluniverso/6A6XA7JKURDHLPKN77G42JQROA.png",
-          "version": "0.10.9",
-          "width": 971
-        }
-      },
-      "related_content": {
-        "basic": [],
-        "redirect": []
-      },
-      "distributor": {
-        "category": "staff",
-        "name": "eluniverso",
-        "subcategory": ""
-      },
-      "canonical_website": "el-universo",
-      "planning": {
-        "internal_note": "",
-        "story_length": {
-          "character_count_actual": 2747,
-          "character_encoding": "UTF-16",
-          "inch_count_actual": 5,
-          "line_count_actual": 30,
-          "word_count_actual": 475
-        }
-      },
-      "display_date": "2023-06-13T05:00:00Z",
-      "credits": {
-        "by": [
-          {
-            "_id": "rosa-falconi-johnson",
-            "type": "author",
-            "version": "0.5.8",
-            "name": "Rosa Falconi Johnson",
-            "org": "Redacción Primera línea",
-            "image": {
-              "url": "https://s3.amazonaws.com/arc-authors/eluniverso/510bc641-404e-4e65-8ea1-6bb375726566.png",
-              "version": "0.5.8"
-            },
-            "url": "/autor/rosa-falconi-johnson",
-            "slug": "rosa-falconi-johnson",
-            "social_links": [
-              {
-                "site": "email",
-                "url": "rfalconi@eluniverso.com"
-              }
             ],
-            "socialLinks": [
-              {
-                "site": "email",
-                "url": "rfalconi@eluniverso.com",
-                "deprecated": true,
-                "deprecation_msg": "Please use social_links."
-              }
-            ],
-            "additional_properties": {
-              "original": {
-                "_id": "rosa-falconi-johnson",
-                "type": "author",
-                "author_type": "periodista",
-                "role": "periodista",
-                "email": "rfalconi@eluniverso.com",
-                "image": "https://s3.amazonaws.com/arc-authors/eluniverso/510bc641-404e-4e65-8ea1-6bb375726566.png",
-                "bio_page": "/autor/rosa-falconi-johnson",
-                "firstName": "Rosa",
-                "lastName": "Falconi Johnson",
-                "slug": "rosa-falconi-johnson",
-                "byline": "Rosa Falconi Johnson",
-                "status": true,
-                "last_updated_date": "2022-03-18T15:10:04.792Z",
-                "books": [],
-                "podcasts": [],
-                "education": [],
-                "awards": [],
-                "location": "Redacción Primera línea"
-              }
-            }
-          }
-        ]
-      },
-      "subtype": "default",
-      "first_publish_date": "2023-06-13T05:00:01.921Z",
-      "websites": {
-        "el-universo": {
-          "website_section": {
-            "_id": "/larevista/sociedad",
-            "_website": "el-universo",
-            "type": "section",
-            "version": "0.6.0",
-            "name": "Sociedad",
-            "description": "Encuentra noticias, fotos y videos de Sociedad en El Universo.",
-            "path": "/larevista/sociedad",
-            "parent_id": "/larevista",
-            "parent": {
-              "default": "/larevista"
+            "content_restrictions": {
+                "content_code": "no_premium"
             },
-            "additional_properties": {
-              "original": {
-                "_id": "/larevista/sociedad",
-                "site": {
-                  "site_tagline": null,
-                  "site_url": null,
-                  "site_title": "Noticias de Sociedad",
-                  "site_about": null,
-                  "site_description": "Encuentra noticias, fotos y videos de Sociedad en El Universo.",
-                  "pagebuilder_path_for_native_apps": null,
-                  "site_keywords": "Sociedad, noticias de Sociedad, guayaquil, fotos de Sociedad, videos de Sociedad"
-                },
-                "site_topper": {
-                  "site_logo_image": null
-                },
-                "social": {
-                  "twitter": null,
-                  "rss": null,
-                  "facebook": null,
-                  "instagram": null
-                },
-                "navigation": {
-                  "nav_title": "Sociedad"
-                },
-                "_admin": {
-                  "alias_ids": ["/larevista/sociedad"]
-                },
-                "_website": "el-universo",
-                "name": "Sociedad",
-                "parent": {
-                  "default": "/larevista",
-                  "SideNav": "/larevista",
-                  "MainMenu": "/larevista",
-                  "composer": "/",
-                  "sitemap": "/sitemap"
-                },
-                "ancestors": {
-                  "default": ["/larevista"],
-                  "SideNav": [
-                    "/",
-                    "/Sidenav",
-                    "/Sidenav/secciones",
-                    "/larevista"
-                  ],
-                  "MainMenu": ["/larevista"],
-                  "composer": ["/"],
-                  "sitemap": ["/sitemap"]
-                },
-                "inactive": false,
-                "node_type": "section",
-                "order": {
-                  "SideNav": 4008,
-                  "MainMenu": 2002,
-                  "composer": 1043,
-                  "sitemap": 2049
+            "copyright": "staff",
+            "created_date": "2023-06-12T15:10:25.265Z",
+            "credits": {
+                "by": [
+                    {
+                        "_id": "gino-farfan",
+                        "type": "author",
+                        "version": "0.5.8",
+                        "name": "Gino Farfán",
+                        "org": "Redacción Primera línea",
+                        "image": {
+                            "url": "https://s3.amazonaws.com/arc-authors/eluniverso/f80e15be-194c-4233-8829-218c1829cfcc.png",
+                            "version": "0.5.8"
+                        },
+                        "url": "/autor/gino-farfan",
+                        "slug": "gino-farfan",
+                        "social_links": [
+                            {
+                                "site": "email",
+                                "url": "gfarfan@eluniverso.com"
+                            }
+                        ],
+                        "socialLinks": [
+                            {
+                                "site": "email",
+                                "url": "gfarfan@eluniverso.com",
+                                "deprecated": true,
+                                "deprecation_msg": "Please use social_links."
+                            }
+                        ],
+                        "additional_properties": {
+                            "original": {
+                                "_id": "gino-farfan",
+                                "type": "author",
+                                "author_type": "periodista",
+                                "role": "periodista",
+                                "email": "gfarfan@eluniverso.com",
+                                "image": "https://s3.amazonaws.com/arc-authors/eluniverso/f80e15be-194c-4233-8829-218c1829cfcc.png",
+                                "bio_page": "/autor/gino-farfan",
+                                "firstName": "Gino",
+                                "lastName": "Farfán",
+                                "slug": "gino-farfan",
+                                "byline": "Gino Farfán",
+                                "status": true,
+                                "last_updated_date": "2022-03-18T15:10:46.669Z",
+                                "books": [],
+                                "podcasts": [],
+                                "education": [],
+                                "awards": [],
+                                "location": "Redacción Primera línea"
+                            }
+                        }
+                    }
+                ]
+            },
+            "description": {
+                "basic": "La muerte de un familiar o un ser allegado es un golpe duro, pero también puede ser el inicio de varias gestiones, una de ellas, es la bancaria."
+            },
+            "display_date": "2023-06-14T15:19:00Z",
+            "distributor": {
+                "category": "staff",
+                "name": "eluniverso",
+                "subcategory": ""
+            },
+            "first_publish_date": "2023-06-14T15:19:00.094Z",
+            "geo": {},
+            "headlines": {
+                "basic": "Qué sucede con las cuentas bancarias de una persona que fallece en Ecuador",
+                "meta_title": "",
+                "mobile": "",
+                "native": "",
+                "print": "",
+                "tablet": "",
+                "web": ""
+            },
+            "label": {},
+            "language": "",
+            "last_updated_date": "2023-06-15T21:20:32.324Z",
+            "owner": {
+                "id": "eluniverso",
+                "sponsored": false
+            },
+            "planning": {
+                "internal_note": "",
+                "story_length": {
+                    "character_count_actual": 3562,
+                    "character_encoding": "UTF-16",
+                    "inch_count_actual": 5,
+                    "line_count_actual": 29,
+                    "word_count_actual": 598
                 }
-              }
             },
-            "_website_section_id": "el-universo./larevista/sociedad"
-          },
-          "website_url": "/larevista/sociedad/horoscopo-de-hoy-martes-13-de-junio-de-2023-consulta-tu-signo-zodiacal-nota/"
+            "promo_items": {
+                "basic": {
+                    "_id": "FCIZCXFOXTI25BOXX4WNBQTG7Q",
+                    "additional_properties": {
+                        "fullSizeResizeUrl": "/resizer/O1Cjz4cEdXAGAtVew9NSiJmY8VY=/arc-anglerfish-arc2-prod-eluniverso/public/FCIZCXFOXTI25BOXX4WNBQTG7Q.jpg",
+                        "galleries": [],
+                        "iptc_job_identifier": "CM1945",
+                        "iptc_source": "EFE/EFE",
+                        "iptc_title": "Gráfica Bogotá Gr?fica Bogot?",
+                        "keywords": [
+                            "billetes",
+                            "dólares"
+                        ],
+                        "mime_type": "image/jpeg",
+                        "originalName": "8116211832a2e66cf3be9a894e95f645301a1389.jpg",
+                        "originalUrl": "https://cloudfront-us-east-1.images.arcpublishing.com/eluniverso/FCIZCXFOXTI25BOXX4WNBQTG7Q.jpg",
+                        "proxyUrl": "/resizer/O1Cjz4cEdXAGAtVew9NSiJmY8VY=/arc-anglerfish-arc2-prod-eluniverso/public/FCIZCXFOXTI25BOXX4WNBQTG7Q.jpg",
+                        "published": true,
+                        "resizeUrl": "/resizer/O1Cjz4cEdXAGAtVew9NSiJmY8VY=/arc-anglerfish-arc2-prod-eluniverso/public/FCIZCXFOXTI25BOXX4WNBQTG7Q.jpg",
+                        "restricted": false,
+                        "takenOn": "2020-02-13T13:00:00Z",
+                        "thumbnailResizeUrl": "/resizer/OgHYGIknPb6AnHCImdf9fUckMEI=/300x0/arc-anglerfish-arc2-prod-eluniverso/public/FCIZCXFOXTI25BOXX4WNBQTG7Q.jpg",
+                        "version": 2
+                    },
+                    "address": {
+                        "locality": "Sao Paulo",
+                        "region": "-"
+                    },
+                    "auth": {
+                        "1": "e5e5628052e66da05fcd44e553cdfb25a7626b7f5a6fdf920ebc2325ebf909e8"
+                    },
+                    "caption": "Fotografía de archivo de billetes de dólares. EFE/Sebastiao Moreira\r\n",
+                    "created_date": "2022-07-19T00:25:37Z",
+                    "credits": {
+                        "affiliation": [
+                            {
+                                "name": "EFE",
+                                "type": "author"
+                            }
+                        ],
+                        "by": [
+                            {
+                                "name": "Sebastiao Moreira Sebastiao Moreira",
+                                "type": "author"
+                            }
+                        ]
+                    },
+                    "distributor": {
+                        "mode": "reference",
+                        "reference_id": "f1a958f4-4dee-4a5a-91d3-eca832c1639c"
+                    },
+                    "height": 3648,
+                    "last_updated_date": "2022-07-26T00:25:46Z",
+                    "licensable": false,
+                    "owner": {
+                        "id": "eluniverso"
+                    },
+                    "slug": "SURINAM FRAUDE",
+                    "source": {
+                        "name": "EFE",
+                        "source_id": "8398c3c4df666e58ffa1fd3cbb5952df75c115c5",
+                        "source_type": "wires",
+                        "additional_properties": {
+                            "editor": "photo center"
+                        },
+                        "edit_url": "https://eluniverso.arcpublishing.com/photo/FCIZCXFOXTI25BOXX4WNBQTG7Q",
+                        "system": "arc i/o"
+                    },
+                    "subtitle": "Escándalo en Surinam por un fraude millonario en una cuenta bancaria gubernamental",
+                    "taxonomy": {
+                        "associated_tasks": []
+                    },
+                    "type": "image",
+                    "url": "https://cloudfront-us-east-1.images.arcpublishing.com/eluniverso/FCIZCXFOXTI25BOXX4WNBQTG7Q.jpg",
+                    "version": "0.10.9",
+                    "width": 5472
+                }
+            },
+            "publish_date": "2023-06-15T21:20:32.211Z",
+            "related_content": {
+                "basic": [
+                    {
+                        "_id": "AM6TDAUOZ5GJPO3ZCLKQ3TSXIQ",
+                        "referent": {
+                            "id": "AM6TDAUOZ5GJPO3ZCLKQ3TSXIQ",
+                            "provider": "",
+                            "type": "story"
+                        },
+                        "type": "reference"
+                    },
+                    {
+                        "_id": "VJVPMKE5JJBZXIIHPLM4G2XWOA",
+                        "referent": {
+                            "id": "VJVPMKE5JJBZXIIHPLM4G2XWOA",
+                            "provider": "",
+                            "type": "story"
+                        },
+                        "type": "reference"
+                    },
+                    {
+                        "_id": "K522YZLFJVEURGECO6GZDWECCU",
+                        "referent": {
+                            "id": "K522YZLFJVEURGECO6GZDWECCU",
+                            "provider": "",
+                            "type": "story"
+                        },
+                        "type": "reference"
+                    }
+                ],
+                "redirect": []
+            },
+            "revision": {
+                "branch": "default",
+                "editions": [
+                    "default"
+                ],
+                "parent_id": "TWWVTFT26RE5TBWY7JKSURSKJU",
+                "published": true,
+                "revision_id": "FGQXQRIHWNFRZHKFWUKGZPH6MI",
+                "user_id": "gfarfan@eluniverso.com"
+            },
+            "source": {
+                "name": "eluniverso",
+                "source_type": "staff",
+                "system": "composer"
+            },
+            "subheadlines": {
+                "basic": ""
+            },
+            "subtype": "default",
+            "taxonomy": {
+                "additional_properties": {
+                    "parent_site_primaries": []
+                },
+                "tags": [
+                    {
+                        "description": "Economía",
+                        "slug": "economia",
+                        "text": "Economía"
+                    },
+                    {
+                        "description": "Bancos",
+                        "slug": "bancos",
+                        "text": "Bancos"
+                    },
+                    {
+                        "description": "Decesos",
+                        "slug": "decesos-0",
+                        "text": "Decesos"
+                    }
+                ]
+            },
+            "type": "story",
+            "version": "0.10.9",
+            "websites": {
+                "el-universo": {
+                    "website_url": "/noticias/economia/que-sucede-con-las-cuentas-bancarias-de-una-persona-que-fallece-nota/"
+                }
+            },
+            "workflow": {
+                "note": "",
+                "status_code": 5
+            },
+            "canonical_url": "/noticias/economia/que-sucede-con-las-cuentas-bancarias-de-una-persona-que-fallece-nota/",
+            "publishing": {
+                "scheduled_operations": {
+                    "publish_edition": [],
+                    "unpublish_edition": []
+                }
+            },
+            "_id": "2L74UQTNNVBH7P74MWMXJAIT2Y",
+            "website": "el-universo",
+            "website_url": "/noticias/economia/que-sucede-con-las-cuentas-bancarias-de-una-persona-que-fallece-nota/"
+        },
+        {
+            "additional_properties": {
+                "clipboard": {},
+                "has_published_copy": true
+            },
+            "address": {},
+            "canonical_website": "el-universo",
+            "content_elements": [
+                {
+                    "_id": "MEFPYDC56JD3ROUG45BALOS5OE",
+                    "additional_properties": {
+                        "_id": 1686752784303,
+                        "comments": [],
+                        "inline_comments": []
+                    },
+                    "content": "<b>QUEVEDO</b>",
+                    "type": "text"
+                },
+                {
+                    "_id": "SUAH75GYHBFTVKWETYIK3QCOEU",
+                    "additional_properties": {
+                        "_id": 1686752784304,
+                        "comments": [],
+                        "inline_comments": []
+                    },
+                    "content": "Cuatro detenidos de la cárcel de Quevedo reciben atención médica luego de haber recibido, al parecer, disparos durante una requisa.",
+                    "type": "text"
+                },
+                {
+                    "_id": "7I3UL3CD7RFLLGTMBHVJIESLLQ",
+                    "additional_properties": {
+                        "_id": 1686752784305,
+                        "comments": [],
+                        "inline_comments": []
+                    },
+                    "content": "El reporte policial señala que Alexi René V. (24), Joel César B. (22), Hugo Fernando Z. (35) y Ángel Jair R. (18) resultaron con laceraciones en las costillas, hombro, mano derecha y oído durante la intervención policial y militar.",
+                    "type": "text"
+                },
+                {
+                    "_id": "AWRAKCHHERD3ZGUILQWBXUUSJI",
+                    "additional_properties": {
+                        "_id": 1686752784306,
+                        "comments": [],
+                        "inline_comments": []
+                    },
+                    "content": "Fernando Vaca, comandante zonal de la Policía, dijo que, desde las 04:00 hasta las 11:00 del martes, cerca de 1.500 uniformados (entre policías y militares) intervinieron la cárcel de Quevedo.",
+                    "type": "text"
+                },
+                {
+                    "_id": "YEEPGPWMURAR7CUULRGPTWTR6U",
+                    "additional_properties": {
+                        "_id": "OPQ7UAY23JBTXCHRFYZTAFAMOY",
+                        "comments": []
+                    },
+                    "content": "Ministro Zapata señala que concejal de Esmeraldas está estable",
+                    "type": "interstitial_link",
+                    "url": "https://www.eluniverso.com/noticias/seguridad/murio-concejal-de-esmeraldas-que-fue-baleado-este-martes-nota/"
+                },
+                {
+                    "_id": "QJ542PITEBA5TKXDA5H74CMBUU",
+                    "additional_properties": {
+                        "_id": 1686752784307,
+                        "comments": [],
+                        "inline_comments": []
+                    },
+                    "content": "“Se revisaron todas las celdas, incluso las de mujeres”, precisó el oficial, asegurando que durante el procedimiento no fue necesario hacer uso de la fuerza.",
+                    "type": "text"
+                },
+                {
+                    "_id": "JR2QRR7ZTVAGTA4TNI4R2WNBCM",
+                    "additional_properties": {
+                        "_id": 1686752784308,
+                        "comments": [],
+                        "inline_comments": []
+                    },
+                    "content": "Sin embargo, luego de una alerta al ECU911, la misma Policía tuvo que regresar a la cárcel para atender la emergencia de los cuatro heridos. Estos, mientras eran atendidos por el médico de la cárcel, dijeron que un uniformado, al parecer militar, ingresó al pabellón F y disparó con un arma similar a una cartuchera contra una de las puertas.",
+                    "type": "text"
+                },
+                {
+                    "_id": "X2MHY4432RH6FDSFUYLEZGLPPY",
+                    "additional_properties": {
+                        "_id": 1686752784309,
+                        "comments": [],
+                        "inline_comments": []
+                    },
+                    "content": "Las balas de goma terminaron impactando en los cuatro procesados, que permanecían arrodillados y con las manos en la cabeza.",
+                    "type": "text"
+                },
+                {
+                    "_id": "YFDAZYND2ZFDJIT7CXH4GTYP5E",
+                    "additional_properties": {
+                        "_id": "JNPGK2N3VVFUFIQVOWMGBGRKFA",
+                        "comments": []
+                    },
+                    "content": "‘La mujer que resucitó en su velorio’: la insólita historia de Bella Montoya se reproduce en el mundo",
+                    "type": "interstitial_link",
+                    "url": "https://www.eluniverso.com/noticias/ecuador/la-mujer-que-resucito-en-su-velorio-la-insolita-historia-de-bella-montoya-se-produce-en-el-mundo-nota/"
+                },
+                {
+                    "_id": "MJZPIITYL5FYZMVN3C5VOXZESI",
+                    "additional_properties": {
+                        "_id": 1686752784310,
+                        "comments": [],
+                        "inline_comments": []
+                    },
+                    "content": "Durante el operativo se decomisaron 790 dólares en efectivo, 5 canecas de licor artesanal, 51 botellas de cerveza, 4 botellas de <i>whisky</i>, 43 celulares, drogas, armas blancas, consolas de videos y otros objetos no autorizados dentro de un centro de rehabilitación.",
+                    "type": "text"
+                },
+                {
+                    "_id": "YVUEF6XXMBDTFNIURHF2RDXD6Y",
+                    "additional_properties": {
+                        "_id": 1686752784311,
+                        "comments": [],
+                        "inline_comments": []
+                    },
+                    "content": "Sobre este tema, Vaca indicó que debe de existir algún funcionario que esté colaborando para que se permita el ingreso de estos productos a la cárcel.<b> (I)</b>",
+                    "type": "text"
+                }
+            ],
+            "content_restrictions": {
+                "content_code": "no_premium"
+            },
+            "copyright": "staff",
+            "created_date": "2023-06-14T14:26:22.502Z",
+            "credits": {
+                "by": [
+                    {
+                        "_id": "vanessa-anchundia",
+                        "type": "author",
+                        "version": "0.5.8",
+                        "name": "Vanessa Anchundia",
+                        "image": {
+                            "url": "https://s3.amazonaws.com/arc-authors/eluniverso/6127972b-7700-4c2c-a6a2-2dc274ff9cc1.png",
+                            "version": "0.5.8"
+                        },
+                        "url": "/autor/vanessa-anchundia",
+                        "slug": "vanessa-anchundia",
+                        "additional_properties": {
+                            "original": {
+                                "_id": "vanessa-anchundia",
+                                "type": "author",
+                                "author_type": "periodista",
+                                "role": "corresponsal",
+                                "image": "https://s3.amazonaws.com/arc-authors/eluniverso/6127972b-7700-4c2c-a6a2-2dc274ff9cc1.png",
+                                "bio_page": "/autor/vanessa-anchundia",
+                                "firstName": "Vanessa",
+                                "lastName": "Anchundia",
+                                "slug": "vanessa-anchundia",
+                                "byline": "Vanessa Anchundia",
+                                "status": true,
+                                "last_updated_date": "2021-01-07T19:26:23.783Z",
+                                "books": [],
+                                "podcasts": [],
+                                "education": [],
+                                "awards": []
+                            }
+                        }
+                    }
+                ]
+            },
+            "description": {
+                "basic": "Hay cuatro internos que resultaron heridos."
+            },
+            "display_date": "2023-06-14T15:27:00Z",
+            "distributor": {
+                "category": "staff",
+                "name": "eluniverso",
+                "subcategory": ""
+            },
+            "first_publish_date": "2023-06-14T15:27:00.11Z",
+            "headlines": {
+                "basic": "Reos aseguran que fueron heridos durante requisa en cárcel de Quevedo",
+                "meta_title": "",
+                "mobile": "",
+                "native": "",
+                "print": "",
+                "tablet": "",
+                "web": ""
+            },
+            "label": {},
+            "language": "",
+            "last_updated_date": "2023-06-14T15:27:00.11Z",
+            "owner": {
+                "id": "eluniverso",
+                "sponsored": false
+            },
+            "planning": {
+                "internal_note": "SEGUNDO PÁRRAFO: Si cada una de esas heridas corresponde a cada uno de los reos mencionados, hay que añadir 'respectivamente'.",
+                "story_length": {
+                    "character_count_actual": 1600,
+                    "character_encoding": "UTF-16",
+                    "inch_count_actual": 2,
+                    "line_count_actual": 12,
+                    "word_count_actual": 263
+                }
+            },
+            "promo_items": {
+                "basic": {
+                    "_id": "MDYGWREA6JHNFBBTWQLDQQP2KA",
+                    "additional_properties": {
+                        "expiration_date": "1687409999000",
+                        "fullSizeResizeUrl": "/resizer/aE0315aMuTSK30qCaQAVpCq6Mk0=/arc-anglerfish-arc2-prod-eluniverso/public/MDYGWREA6JHNFBBTWQLDQQP2KA.jpg",
+                        "galleries": [],
+                        "keywords": [
+                            ""
+                        ],
+                        "mime_type": "image/jpeg",
+                        "originalName": "/var/www/api.eluniverso.com/arc/tmp-eu/Los heridos dijeron que un uniformado realizó el disparoen el pabellón F.jpg",
+                        "originalUrl": "https://cloudfront-us-east-1.images.arcpublishing.com/eluniverso/MDYGWREA6JHNFBBTWQLDQQP2KA.jpg",
+                        "proxyUrl": "/resizer/aE0315aMuTSK30qCaQAVpCq6Mk0=/arc-anglerfish-arc2-prod-eluniverso/public/MDYGWREA6JHNFBBTWQLDQQP2KA.jpg",
+                        "published": true,
+                        "resizeUrl": "/resizer/aE0315aMuTSK30qCaQAVpCq6Mk0=/arc-anglerfish-arc2-prod-eluniverso/public/MDYGWREA6JHNFBBTWQLDQQP2KA.jpg",
+                        "restricted": false,
+                        "thumbnailResizeUrl": "/resizer/r22WsHVoz8Mn4KvmWExosMw2fCo=/300x0/arc-anglerfish-arc2-prod-eluniverso/public/MDYGWREA6JHNFBBTWQLDQQP2KA.jpg",
+                        "version": 2
+                    },
+                    "auth": {
+                        "1": "b1ba0187e32c276b9569d7a755226f26039b793f5eb90d7e4b97187204ba9a6f"
+                    },
+                    "caption": "Los heridos dijeron que un uniformado realizó el disparo en el pabellón F.",
+                    "created_date": "2023-06-14T13:14:05Z",
+                    "distributor": {
+                        "category": "wires",
+                        "mode": "reference",
+                        "name": "El Universo",
+                        "reference_id": "add698c3-fc83-4432-8009-00adcbb4a504",
+                        "subcategory": ""
+                    },
+                    "height": 720,
+                    "last_updated_date": "2023-06-14T14:28:01Z",
+                    "licensable": false,
+                    "owner": {
+                        "id": "eluniverso"
+                    },
+                    "slug": "CARCEL QUEVEDO",
+                    "source": {
+                        "name": "El Universo",
+                        "source_type": "wires",
+                        "additional_properties": {
+                            "editor": "photo center"
+                        },
+                        "edit_url": "https://eluniverso.arcpublishing.com/photo/MDYGWREA6JHNFBBTWQLDQQP2KA",
+                        "system": "ftp",
+                        "type": "ftp"
+                    },
+                    "subtitle": "CARCEL QUEVEDO",
+                    "type": "image",
+                    "url": "https://cloudfront-us-east-1.images.arcpublishing.com/eluniverso/MDYGWREA6JHNFBBTWQLDQQP2KA.jpg",
+                    "version": "0.10.9",
+                    "width": 1280
+                }
+            },
+            "publish_date": "2023-06-14T15:27:00.11Z",
+            "related_content": {
+                "basic": [
+                    {
+                        "_id": "FMX7PHAALFAMDG256G4HOA6MBU",
+                        "referent": {
+                            "id": "FMX7PHAALFAMDG256G4HOA6MBU",
+                            "provider": "",
+                            "type": "story"
+                        },
+                        "type": "reference"
+                    },
+                    {
+                        "_id": "HB6MSSCJJJFYZPUIRTSRBBIZHE",
+                        "referent": {
+                            "id": "HB6MSSCJJJFYZPUIRTSRBBIZHE",
+                            "provider": "",
+                            "type": "story"
+                        },
+                        "type": "reference"
+                    },
+                    {
+                        "_id": "TS4ZDIODHBEUPNNDFOALB74C64",
+                        "referent": {
+                            "id": "TS4ZDIODHBEUPNNDFOALB74C64",
+                            "provider": "",
+                            "type": "story"
+                        },
+                        "type": "reference"
+                    },
+                    {
+                        "_id": "GXR7OSLQBZBSNM46EII7B6SWW4",
+                        "referent": {
+                            "id": "GXR7OSLQBZBSNM46EII7B6SWW4",
+                            "provider": "",
+                            "type": "story"
+                        },
+                        "type": "reference"
+                    },
+                    {
+                        "_id": "O7OT2BTW5BBJXJ3V3PALB62WV4",
+                        "referent": {
+                            "id": "O7OT2BTW5BBJXJ3V3PALB62WV4",
+                            "provider": "",
+                            "type": "story"
+                        },
+                        "type": "reference"
+                    }
+                ],
+                "redirect": []
+            },
+            "revision": {
+                "branch": "default",
+                "editions": [
+                    "default"
+                ],
+                "parent_id": "2LZWKLY36ZHLXI52KLUWRU36BE",
+                "published": true,
+                "revision_id": "YCCNQQRR55BPBFJ24G7TM4GKWM",
+                "user_id": "jmaruri@eluniverso.com"
+            },
+            "source": {
+                "name": "eluniverso",
+                "source_type": "staff",
+                "system": "composer"
+            },
+            "subheadlines": {
+                "basic": ""
+            },
+            "subtype": "default",
+            "taxonomy": {
+                "additional_properties": {
+                    "parent_site_primaries": []
+                },
+                "primary_section": {
+                    "_id": "/noticias/ecuador",
+                    "_website": "el-universo",
+                    "type": "section",
+                    "version": "0.6.0",
+                    "name": "Ecuador",
+                    "description": "Encuentra las últimas noticias, fotos y videos de Ecuador en El Universo.",
+                    "path": "/noticias/ecuador",
+                    "parent_id": "/noticias",
+                    "parent": {
+                        "default": "/noticias"
+                    },
+                    "additional_properties": {
+                        "original": {
+                            "_id": "/noticias/ecuador",
+                            "site": {
+                                "site_tagline": null,
+                                "site_url": null,
+                                "site_title": "Noticias de Ecuador",
+                                "site_about": null,
+                                "site_description": "Encuentra las últimas noticias, fotos y videos de Ecuador en El Universo.",
+                                "pagebuilder_path_for_native_apps": null,
+                                "site_keywords": "Ecuador, noticias de Ecuador, guayaquil, fotos de Ecuador, videos de Ecuador"
+                            },
+                            "site_topper": {
+                                "site_logo_image": null
+                            },
+                            "social": {
+                                "twitter": null,
+                                "rss": null,
+                                "facebook": null,
+                                "instagram": null
+                            },
+                            "navigation": {
+                                "nav_title": "Ecuador"
+                            },
+                            "name": "Ecuador",
+                            "_website": "el-universo",
+                            "parent": {
+                                "default": "/noticias",
+                                "SideNav": "/noticias",
+                                "MainMenu": "/noticias",
+                                "Sitemap": null,
+                                "composer": "/",
+                                "sitemap": "/sitemap"
+                            },
+                            "ancestors": {
+                                "default": [
+                                    "/",
+                                    "/noticias"
+                                ],
+                                "SideNav": [
+                                    "/",
+                                    "/Sidenav",
+                                    "/Sidenav/secciones",
+                                    "/noticias"
+                                ],
+                                "MainMenu": [
+                                    "/",
+                                    "/noticias"
+                                ],
+                                "Sitemap": [],
+                                "composer": [
+                                    "/"
+                                ],
+                                "sitemap": [
+                                    "/sitemap"
+                                ]
+                            },
+                            "_admin": {
+                                "alias_ids": [
+                                    "/noticias/ecuador"
+                                ]
+                            },
+                            "inactive": false,
+                            "node_type": "section",
+                            "order": {
+                                "default": 2004,
+                                "SideNav": 4004,
+                                "MainMenu": 2006,
+                                "composer": 1004,
+                                "sitemap": 2005
+                            }
+                        }
+                    }
+                },
+                "primary_site": {
+                    "_id": "/noticias/ecuador",
+                    "type": "site",
+                    "version": "0.5.8",
+                    "name": "Ecuador",
+                    "description": "Encuentra las últimas noticias, fotos y videos de Ecuador en El Universo.",
+                    "path": "/noticias/ecuador",
+                    "parent_id": "/noticias",
+                    "additional_properties": {
+                        "original": {
+                            "_id": "/noticias/ecuador",
+                            "site": {
+                                "site_tagline": null,
+                                "site_url": null,
+                                "site_title": "Noticias de Ecuador",
+                                "site_about": null,
+                                "site_description": "Encuentra las últimas noticias, fotos y videos de Ecuador en El Universo.",
+                                "pagebuilder_path_for_native_apps": null,
+                                "site_keywords": "Ecuador, noticias de Ecuador, guayaquil, fotos de Ecuador, videos de Ecuador"
+                            },
+                            "site_topper": {
+                                "site_logo_image": null
+                            },
+                            "social": {
+                                "twitter": null,
+                                "rss": null,
+                                "facebook": null,
+                                "instagram": null
+                            },
+                            "navigation": {
+                                "nav_title": "Ecuador"
+                            },
+                            "name": "Ecuador",
+                            "parent": {
+                                "default": "/noticias",
+                                "SideNav": "/noticias",
+                                "MainMenu": "/noticias",
+                                "Sitemap": null,
+                                "composer": "/",
+                                "sitemap": "/sitemap"
+                            },
+                            "ancestors": {
+                                "default": [
+                                    "/",
+                                    "/noticias"
+                                ],
+                                "SideNav": [
+                                    "/",
+                                    "/Sidenav",
+                                    "/Sidenav/secciones",
+                                    "/noticias"
+                                ],
+                                "MainMenu": [
+                                    "/",
+                                    "/noticias"
+                                ],
+                                "Sitemap": [],
+                                "composer": [
+                                    "/"
+                                ],
+                                "sitemap": [
+                                    "/sitemap"
+                                ]
+                            },
+                            "_admin": {
+                                "alias_ids": [
+                                    "/noticias/ecuador"
+                                ]
+                            },
+                            "inactive": false,
+                            "node_type": "section",
+                            "order": {
+                                "default": 2004,
+                                "SideNav": 4004,
+                                "MainMenu": 2006,
+                                "composer": 1004,
+                                "sitemap": 2005
+                            }
+                        }
+                    }
+                },
+                "sections": [
+                    {
+                        "_id": "/noticias/ecuador",
+                        "_website": "el-universo",
+                        "type": "section",
+                        "version": "0.6.0",
+                        "name": "Ecuador",
+                        "description": "Encuentra las últimas noticias, fotos y videos de Ecuador en El Universo.",
+                        "path": "/noticias/ecuador",
+                        "parent_id": "/noticias",
+                        "parent": {
+                            "default": "/noticias"
+                        },
+                        "additional_properties": {
+                            "original": {
+                                "_id": "/noticias/ecuador",
+                                "site": {
+                                    "site_tagline": null,
+                                    "site_url": null,
+                                    "site_title": "Noticias de Ecuador",
+                                    "site_about": null,
+                                    "site_description": "Encuentra las últimas noticias, fotos y videos de Ecuador en El Universo.",
+                                    "pagebuilder_path_for_native_apps": null,
+                                    "site_keywords": "Ecuador, noticias de Ecuador, guayaquil, fotos de Ecuador, videos de Ecuador"
+                                },
+                                "site_topper": {
+                                    "site_logo_image": null
+                                },
+                                "social": {
+                                    "twitter": null,
+                                    "rss": null,
+                                    "facebook": null,
+                                    "instagram": null
+                                },
+                                "navigation": {
+                                    "nav_title": "Ecuador"
+                                },
+                                "name": "Ecuador",
+                                "_website": "el-universo",
+                                "parent": {
+                                    "default": "/noticias",
+                                    "SideNav": "/noticias",
+                                    "MainMenu": "/noticias",
+                                    "Sitemap": null,
+                                    "composer": "/",
+                                    "sitemap": "/sitemap"
+                                },
+                                "ancestors": {
+                                    "default": [
+                                        "/",
+                                        "/noticias"
+                                    ],
+                                    "SideNav": [
+                                        "/",
+                                        "/Sidenav",
+                                        "/Sidenav/secciones",
+                                        "/noticias"
+                                    ],
+                                    "MainMenu": [
+                                        "/",
+                                        "/noticias"
+                                    ],
+                                    "Sitemap": [],
+                                    "composer": [
+                                        "/"
+                                    ],
+                                    "sitemap": [
+                                        "/sitemap"
+                                    ]
+                                },
+                                "_admin": {
+                                    "alias_ids": [
+                                        "/noticias/ecuador"
+                                    ]
+                                },
+                                "inactive": false,
+                                "node_type": "section",
+                                "order": {
+                                    "default": 2004,
+                                    "SideNav": 4004,
+                                    "MainMenu": 2006,
+                                    "composer": 1004,
+                                    "sitemap": 2005
+                                }
+                            }
+                        },
+                        "_website_section_id": "el-universo./noticias/ecuador"
+                    },
+                    {
+                        "_id": "/noticias",
+                        "_website": "el-universo",
+                        "type": "section",
+                        "version": "0.6.0",
+                        "name": "Noticias",
+                        "description": "Noticias de política, economía, Guayaquil, Quito e internacionales en El Universo. Encuentra fotos, videos, análisis y estadísticas de todo lo que sucede en Ecuador y el mundo.",
+                        "path": "/noticias",
+                        "parent_id": "/",
+                        "parent": {
+                            "default": "/"
+                        },
+                        "additional_properties": {
+                            "original": {
+                                "_id": "/noticias",
+                                "site": {
+                                    "site_tagline": null,
+                                    "site_url": null,
+                                    "site_title": "Noticias",
+                                    "site_about": null,
+                                    "site_description": "Noticias de política, economía, Guayaquil, Quito e internacionales en El Universo. Encuentra fotos, videos, análisis y estadísticas de todo lo que sucede en Ecuador y el mundo.",
+                                    "pagebuilder_path_for_native_apps": null,
+                                    "site_keywords": "politica,economia,noticias,ecuador,internacional,guayaquil,viva,seguridad,informes, economia, internacionales"
+                                },
+                                "site_topper": {
+                                    "site_logo_image": null
+                                },
+                                "social": {
+                                    "twitter": null,
+                                    "rss": null,
+                                    "facebook": null,
+                                    "instagram": null
+                                },
+                                "navigation": {
+                                    "nav_title": "Noticias"
+                                },
+                                "_admin": {
+                                    "alias_ids": [
+                                        "/noticias"
+                                    ]
+                                },
+                                "_website": "el-universo",
+                                "name": "Noticias",
+                                "order": {
+                                    "default": 1004,
+                                    "SideNav": 3003,
+                                    "MainMenu": 1003,
+                                    "sitemap": 2001
+                                },
+                                "parent": {
+                                    "default": "/",
+                                    "Noticias": null,
+                                    "Main": null,
+                                    "Footer": null,
+                                    "topics": null,
+                                    "footer-links": null,
+                                    "SideNav": "/Sidenav/secciones",
+                                    "MainMenu": "/",
+                                    "Sitemap": null,
+                                    "composer": null,
+                                    "sitemap": "/sitemap"
+                                },
+                                "ancestors": {
+                                    "default": [
+                                        "/"
+                                    ],
+                                    "Noticias": [],
+                                    "Main": [],
+                                    "Footer": [],
+                                    "topics": [],
+                                    "footer-links": [],
+                                    "SideNav": [
+                                        "/",
+                                        "/Sidenav",
+                                        "/Sidenav/secciones"
+                                    ],
+                                    "MainMenu": [
+                                        "/"
+                                    ],
+                                    "Sitemap": [],
+                                    "composer": [],
+                                    "sitemap": [
+                                        "/sitemap"
+                                    ]
+                                },
+                                "inactive": false,
+                                "node_type": "section"
+                            }
+                        },
+                        "_website_section_id": "el-universo./noticias"
+                    }
+                ],
+                "sites": [
+                    {
+                        "_id": "/noticias/ecuador",
+                        "type": "site",
+                        "version": "0.5.8",
+                        "name": "Ecuador",
+                        "description": "Encuentra las últimas noticias, fotos y videos de Ecuador en El Universo.",
+                        "path": "/noticias/ecuador",
+                        "parent_id": "/noticias",
+                        "additional_properties": {
+                            "original": {
+                                "_id": "/noticias/ecuador",
+                                "site": {
+                                    "site_tagline": null,
+                                    "site_url": null,
+                                    "site_title": "Noticias de Ecuador",
+                                    "site_about": null,
+                                    "site_description": "Encuentra las últimas noticias, fotos y videos de Ecuador en El Universo.",
+                                    "pagebuilder_path_for_native_apps": null,
+                                    "site_keywords": "Ecuador, noticias de Ecuador, guayaquil, fotos de Ecuador, videos de Ecuador"
+                                },
+                                "site_topper": {
+                                    "site_logo_image": null
+                                },
+                                "social": {
+                                    "twitter": null,
+                                    "rss": null,
+                                    "facebook": null,
+                                    "instagram": null
+                                },
+                                "navigation": {
+                                    "nav_title": "Ecuador"
+                                },
+                                "name": "Ecuador",
+                                "parent": {
+                                    "default": "/noticias",
+                                    "SideNav": "/noticias",
+                                    "MainMenu": "/noticias",
+                                    "Sitemap": null,
+                                    "composer": "/",
+                                    "sitemap": "/sitemap"
+                                },
+                                "ancestors": {
+                                    "default": [
+                                        "/",
+                                        "/noticias"
+                                    ],
+                                    "SideNav": [
+                                        "/",
+                                        "/Sidenav",
+                                        "/Sidenav/secciones",
+                                        "/noticias"
+                                    ],
+                                    "MainMenu": [
+                                        "/",
+                                        "/noticias"
+                                    ],
+                                    "Sitemap": [],
+                                    "composer": [
+                                        "/"
+                                    ],
+                                    "sitemap": [
+                                        "/sitemap"
+                                    ]
+                                },
+                                "_admin": {
+                                    "alias_ids": [
+                                        "/noticias/ecuador"
+                                    ]
+                                },
+                                "inactive": false,
+                                "node_type": "section",
+                                "order": {
+                                    "default": 2004,
+                                    "SideNav": 4004,
+                                    "MainMenu": 2006,
+                                    "composer": 1004,
+                                    "sitemap": 2005
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "_id": "/noticias",
+                        "type": "site",
+                        "version": "0.5.8",
+                        "name": "Noticias",
+                        "description": "Noticias de política, economía, Guayaquil, Quito e internacionales en El Universo. Encuentra fotos, videos, análisis y estadísticas de todo lo que sucede en Ecuador y el mundo.",
+                        "path": "/noticias",
+                        "parent_id": "/",
+                        "additional_properties": {
+                            "original": {
+                                "_id": "/noticias",
+                                "site": {
+                                    "site_tagline": null,
+                                    "site_url": null,
+                                    "site_title": "Noticias",
+                                    "site_about": null,
+                                    "site_description": "Noticias de política, economía, Guayaquil, Quito e internacionales en El Universo. Encuentra fotos, videos, análisis y estadísticas de todo lo que sucede en Ecuador y el mundo.",
+                                    "pagebuilder_path_for_native_apps": null,
+                                    "site_keywords": "politica,economia,noticias,ecuador,internacional,guayaquil,viva,seguridad,informes, economia, internacionales"
+                                },
+                                "site_topper": {
+                                    "site_logo_image": null
+                                },
+                                "social": {
+                                    "twitter": null,
+                                    "rss": null,
+                                    "facebook": null,
+                                    "instagram": null
+                                },
+                                "navigation": {
+                                    "nav_title": "Noticias"
+                                },
+                                "_admin": {
+                                    "alias_ids": [
+                                        "/noticias"
+                                    ]
+                                },
+                                "name": "Noticias",
+                                "order": {
+                                    "default": 1004,
+                                    "SideNav": 3003,
+                                    "MainMenu": 1003,
+                                    "sitemap": 2001
+                                },
+                                "parent": {
+                                    "default": "/",
+                                    "Noticias": null,
+                                    "Main": null,
+                                    "Footer": null,
+                                    "topics": null,
+                                    "footer-links": null,
+                                    "SideNav": "/Sidenav/secciones",
+                                    "MainMenu": "/",
+                                    "Sitemap": null,
+                                    "composer": null,
+                                    "sitemap": "/sitemap"
+                                },
+                                "ancestors": {
+                                    "default": [
+                                        "/"
+                                    ],
+                                    "Noticias": [],
+                                    "Main": [],
+                                    "Footer": [],
+                                    "topics": [],
+                                    "footer-links": [],
+                                    "SideNav": [
+                                        "/",
+                                        "/Sidenav",
+                                        "/Sidenav/secciones"
+                                    ],
+                                    "MainMenu": [
+                                        "/"
+                                    ],
+                                    "Sitemap": [],
+                                    "composer": [],
+                                    "sitemap": [
+                                        "/sitemap"
+                                    ]
+                                },
+                                "inactive": false,
+                                "node_type": "section"
+                            }
+                        }
+                    }
+                ],
+                "tags": [
+                    {
+                        "description": "Cárceles",
+                        "slug": "carceles",
+                        "text": "Cárceles"
+                    },
+                    {
+                        "description": "Delitos",
+                        "slug": "delitos",
+                        "text": "Delitos"
+                    }
+                ]
+            },
+            "type": "story",
+            "version": "0.10.9",
+            "websites": {
+                "el-universo": {
+                    "website_section": {
+                        "_id": "/noticias/ecuador",
+                        "_website": "el-universo",
+                        "type": "section",
+                        "version": "0.6.0",
+                        "name": "Ecuador",
+                        "description": "Encuentra las últimas noticias, fotos y videos de Ecuador en El Universo.",
+                        "path": "/noticias/ecuador",
+                        "parent_id": "/noticias",
+                        "parent": {
+                            "default": "/noticias"
+                        },
+                        "additional_properties": {
+                            "original": {
+                                "_id": "/noticias/ecuador",
+                                "site": {
+                                    "site_tagline": null,
+                                    "site_url": null,
+                                    "site_title": "Noticias de Ecuador",
+                                    "site_about": null,
+                                    "site_description": "Encuentra las últimas noticias, fotos y videos de Ecuador en El Universo.",
+                                    "pagebuilder_path_for_native_apps": null,
+                                    "site_keywords": "Ecuador, noticias de Ecuador, guayaquil, fotos de Ecuador, videos de Ecuador"
+                                },
+                                "site_topper": {
+                                    "site_logo_image": null
+                                },
+                                "social": {
+                                    "twitter": null,
+                                    "rss": null,
+                                    "facebook": null,
+                                    "instagram": null
+                                },
+                                "navigation": {
+                                    "nav_title": "Ecuador"
+                                },
+                                "name": "Ecuador",
+                                "_website": "el-universo",
+                                "parent": {
+                                    "default": "/noticias",
+                                    "SideNav": "/noticias",
+                                    "MainMenu": "/noticias",
+                                    "Sitemap": null,
+                                    "composer": "/",
+                                    "sitemap": "/sitemap"
+                                },
+                                "ancestors": {
+                                    "default": [
+                                        "/",
+                                        "/noticias"
+                                    ],
+                                    "SideNav": [
+                                        "/",
+                                        "/Sidenav",
+                                        "/Sidenav/secciones",
+                                        "/noticias"
+                                    ],
+                                    "MainMenu": [
+                                        "/",
+                                        "/noticias"
+                                    ],
+                                    "Sitemap": [],
+                                    "composer": [
+                                        "/"
+                                    ],
+                                    "sitemap": [
+                                        "/sitemap"
+                                    ]
+                                },
+                                "_admin": {
+                                    "alias_ids": [
+                                        "/noticias/ecuador"
+                                    ]
+                                },
+                                "inactive": false,
+                                "node_type": "section",
+                                "order": {
+                                    "default": 2004,
+                                    "SideNav": 4004,
+                                    "MainMenu": 2006,
+                                    "composer": 1004,
+                                    "sitemap": 2005
+                                }
+                            }
+                        },
+                        "_website_section_id": "el-universo./noticias/ecuador"
+                    },
+                    "website_url": "/noticias/ecuador/reos-aseguran-que-fueron-heridos-durante-requisa-en-carcel-de-quevedo-nota/"
+                }
+            },
+            "workflow": {
+                "note": "",
+                "status_code": 5
+            },
+            "canonical_url": "/noticias/ecuador/reos-aseguran-que-fueron-heridos-durante-requisa-en-carcel-de-quevedo-nota/",
+            "publishing": {
+                "scheduled_operations": {
+                    "publish_edition": [],
+                    "unpublish_edition": []
+                }
+            },
+            "_id": "IBX427MPKRHLHO3CAYK4SMPAIE",
+            "website": "el-universo",
+            "website_url": "/noticias/ecuador/reos-aseguran-que-fueron-heridos-durante-requisa-en-carcel-de-quevedo-nota/"
         }
-      },
-      "additional_properties": {
-        "clipboard": {},
-        "has_published_copy": true
-      },
-      "publish_date": "2023-06-13T05:00:01.921Z",
-      "canonical_url": "/larevista/sociedad/horoscopo-de-hoy-martes-13-de-junio-de-2023-consulta-tu-signo-zodiacal-nota/",
-      "publishing": {
-        "scheduled_operations": {
-          "publish_edition": [],
-          "unpublish_edition": []
-        }
-      },
-      "_id": "O67V63AGTNEV3AQYDRLMHO4XRI",
-      "website": "el-universo",
-      "website_url": "/larevista/sociedad/horoscopo-de-hoy-martes-13-de-junio-de-2023-consulta-tu-signo-zodiacal-nota/"
+    ],
+    "additional_properties": {
+        "took": 6,
+        "timed_out": false
     },
-    {
-      "type": "story",
-      "version": "0.10.9",
-      "content_elements": [
-        {
-          "_id": "HMQS7RWLYJHKXAPSOP6QQQE55I",
-          "type": "text",
-          "additional_properties": {
-            "_id": 1686603214839,
-            "comments": [],
-            "inline_comments": []
-          },
-          "content": "Acertado artículo de opinión (‘Vulgares y estúpidos’, 9 de junio de 2023: <a href=\"https://www.eluniverso.com/opinion/columnistas/vulgares-y-estupidos-nota/\" target=\"_blank\">https://www.eluniverso.com/opinion/columnistas/vulgares-y-estupidos-nota/</a>) con el que Fernando Balseca describe la penosa realidad de la política ecuatoriana. Con su impecable prosa, respaldada de apotegmas de autores notables, nos lleva a descifrar el verdadero problema de la política y democracia ecuatoriana: tenemos un pueblo impreparado, y ciertos políticos de la peor ralea."
-        },
-        {
-          "_id": "DENH3QBEYZH2BA7XNDKXXZYA6U",
-          "type": "text",
-          "additional_properties": {
-            "_id": 1686603214840,
-            "comments": [],
-            "inline_comments": []
-          },
-          "content": "Se necesita emprender un proceso a largo plazo de educación a toda la población, para aspirar a otros resultados en elecciones. (O)"
-        },
-        {
-          "_id": "HR7LQ3EN7FFALLVO6VDULVQGYA",
-          "type": "text",
-          "additional_properties": {
-            "_id": 1686603214841,
-            "comments": [],
-            "inline_comments": []
-          },
-          "content": "<b>Jorge Luis Cevallos Cantos, </b><i>Manta</i>"
-        }
-      ],
-      "created_date": "2023-06-12T20:41:27.520Z",
-      "revision": {
-        "revision_id": "JXZRBDRV7VDIPINDBGQEKFI5OQ",
-        "parent_id": "HWZBQCJ6WNE6ZAWYWAGZIXIGTI",
-        "editions": ["default"],
-        "branch": "default",
-        "user_id": "stapia@eluniverso.com",
-        "published": true
-      },
-      "last_updated_date": "2023-06-13T05:01:00.207Z",
-      "headlines": {
-        "basic": "Acerca de voto y elección",
-        "meta_title": "",
-        "mobile": "",
-        "native": "",
-        "print": "",
-        "tablet": "",
-        "web": ""
-      },
-      "owner": {
-        "sponsored": false,
-        "id": "eluniverso"
-      },
-      "content_restrictions": {
-        "content_code": "no_premium"
-      },
-      "copyright": "staff",
-      "address": {},
-      "workflow": {
-        "note": "CARTA MARTES 12 DE JUNIO DE 2023.",
-        "status_code": 5
-      },
-      "subheadlines": {
-        "basic": ""
-      },
-      "description": {
-        "basic": "Los ciudadanos deben educarse, informarse, tener cultura del voto, para elegir a sus representantes."
-      },
-      "language": "",
-      "label": {},
-      "source": {
-        "name": "eluniverso",
-        "source_type": "staff",
-        "system": "composer"
-      },
-      "taxonomy": {
-        "additional_properties": {
-          "parent_site_primaries": []
-        },
-        "primary_section": {
-          "_id": "/opinion/cartas-al-director",
-          "_website": "el-universo",
-          "type": "section",
-          "version": "0.6.0",
-          "name": "Cartas al Director",
-          "description": "Encuentra las últimas noticias, fotos y videos de Cartas al Director en El Universo.",
-          "path": "/opinion/cartas-al-director",
-          "parent_id": "/opinion",
-          "parent": {
-            "default": "/opinion"
-          },
-          "additional_properties": {
-            "original": {
-              "_id": "/opinion/cartas-al-director",
-              "site": {
-                "site_tagline": null,
-                "site_url": null,
-                "site_title": "Noticias de Cartas al Director",
-                "site_about": null,
-                "site_description": "Encuentra las últimas noticias, fotos y videos de Cartas al Director en El Universo.",
-                "pagebuilder_path_for_native_apps": null,
-                "site_keywords": "Cartas al Director, noticias de Cartas al Director, guayaquil, fotos de Cartas al Director, videos de Cartas al Director"
-              },
-              "site_topper": {
-                "site_logo_image": null
-              },
-              "social": {
-                "twitter": null,
-                "rss": null,
-                "facebook": null,
-                "instagram": null
-              },
-              "navigation": {
-                "nav_title": "Cartas al Director"
-              },
-              "name": "Cartas al Director",
-              "_website": "el-universo",
-              "parent": {
-                "default": "/opinion",
-                "SideNav": "/opinion",
-                "MainMenu": "/opinion",
-                "Sitemap": null,
-                "composer": "/",
-                "sitemap": "/sitemap"
-              },
-              "ancestors": {
-                "default": ["/", "/opinion"],
-                "SideNav": ["/", "/Sidenav", "/Sidenav/secciones", "/opinion"],
-                "MainMenu": ["/", "/opinion"],
-                "Sitemap": [],
-                "composer": ["/"],
-                "sitemap": ["/sitemap"]
-              },
-              "_admin": {
-                "alias_ids": ["/opinion/cartas-al-director"]
-              },
-              "inactive": false,
-              "node_type": "section",
-              "order": {
-                "default": 2004,
-                "SideNav": 4004,
-                "MainMenu": 2004,
-                "composer": 1012,
-                "sitemap": 2014
-              }
-            }
-          }
-        },
-        "primary_site": {
-          "_id": "/opinion/cartas-al-director",
-          "type": "site",
-          "version": "0.5.8",
-          "name": "Cartas al Director",
-          "description": "Encuentra las últimas noticias, fotos y videos de Cartas al Director en El Universo.",
-          "path": "/opinion/cartas-al-director",
-          "parent_id": "/opinion",
-          "additional_properties": {
-            "original": {
-              "_id": "/opinion/cartas-al-director",
-              "site": {
-                "site_tagline": null,
-                "site_url": null,
-                "site_title": "Noticias de Cartas al Director",
-                "site_about": null,
-                "site_description": "Encuentra las últimas noticias, fotos y videos de Cartas al Director en El Universo.",
-                "pagebuilder_path_for_native_apps": null,
-                "site_keywords": "Cartas al Director, noticias de Cartas al Director, guayaquil, fotos de Cartas al Director, videos de Cartas al Director"
-              },
-              "site_topper": {
-                "site_logo_image": null
-              },
-              "social": {
-                "twitter": null,
-                "rss": null,
-                "facebook": null,
-                "instagram": null
-              },
-              "navigation": {
-                "nav_title": "Cartas al Director"
-              },
-              "name": "Cartas al Director",
-              "parent": {
-                "default": "/opinion",
-                "SideNav": "/opinion",
-                "MainMenu": "/opinion",
-                "Sitemap": null,
-                "composer": "/",
-                "sitemap": "/sitemap"
-              },
-              "ancestors": {
-                "default": ["/", "/opinion"],
-                "SideNav": ["/", "/Sidenav", "/Sidenav/secciones", "/opinion"],
-                "MainMenu": ["/", "/opinion"],
-                "Sitemap": [],
-                "composer": ["/"],
-                "sitemap": ["/sitemap"]
-              },
-              "_admin": {
-                "alias_ids": ["/opinion/cartas-al-director"]
-              },
-              "inactive": false,
-              "node_type": "section",
-              "order": {
-                "default": 2004,
-                "SideNav": 4004,
-                "MainMenu": 2004,
-                "composer": 1012,
-                "sitemap": 2014
-              }
-            }
-          }
-        },
-        "sections": [
-          {
-            "_id": "/opinion/cartas-al-director",
-            "_website": "el-universo",
-            "type": "section",
-            "version": "0.6.0",
-            "name": "Cartas al Director",
-            "description": "Encuentra las últimas noticias, fotos y videos de Cartas al Director en El Universo.",
-            "path": "/opinion/cartas-al-director",
-            "parent_id": "/opinion",
-            "parent": {
-              "default": "/opinion"
-            },
-            "additional_properties": {
-              "original": {
-                "_id": "/opinion/cartas-al-director",
-                "site": {
-                  "site_tagline": null,
-                  "site_url": null,
-                  "site_title": "Noticias de Cartas al Director",
-                  "site_about": null,
-                  "site_description": "Encuentra las últimas noticias, fotos y videos de Cartas al Director en El Universo.",
-                  "pagebuilder_path_for_native_apps": null,
-                  "site_keywords": "Cartas al Director, noticias de Cartas al Director, guayaquil, fotos de Cartas al Director, videos de Cartas al Director"
-                },
-                "site_topper": {
-                  "site_logo_image": null
-                },
-                "social": {
-                  "twitter": null,
-                  "rss": null,
-                  "facebook": null,
-                  "instagram": null
-                },
-                "navigation": {
-                  "nav_title": "Cartas al Director"
-                },
-                "name": "Cartas al Director",
-                "_website": "el-universo",
-                "parent": {
-                  "default": "/opinion",
-                  "SideNav": "/opinion",
-                  "MainMenu": "/opinion",
-                  "Sitemap": null,
-                  "composer": "/",
-                  "sitemap": "/sitemap"
-                },
-                "ancestors": {
-                  "default": ["/", "/opinion"],
-                  "SideNav": [
-                    "/",
-                    "/Sidenav",
-                    "/Sidenav/secciones",
-                    "/opinion"
-                  ],
-                  "MainMenu": ["/", "/opinion"],
-                  "Sitemap": [],
-                  "composer": ["/"],
-                  "sitemap": ["/sitemap"]
-                },
-                "_admin": {
-                  "alias_ids": ["/opinion/cartas-al-director"]
-                },
-                "inactive": false,
-                "node_type": "section",
-                "order": {
-                  "default": 2004,
-                  "SideNav": 4004,
-                  "MainMenu": 2004,
-                  "composer": 1012,
-                  "sitemap": 2014
-                }
-              }
-            },
-            "_website_section_id": "el-universo./opinion/cartas-al-director"
-          },
-          {
-            "_id": "/opinion",
-            "_website": "el-universo",
-            "type": "section",
-            "version": "0.6.0",
-            "name": "Opinión",
-            "description": "Opinión del Diario EL UNIVERSO sobre temas actuales del Ecuador y del mundo",
-            "path": "/opinion",
-            "parent_id": "/",
-            "parent": {
-              "default": "/"
-            },
-            "additional_properties": {
-              "original": {
-                "_id": "/opinion",
-                "site": {
-                  "site_tagline": null,
-                  "site_url": null,
-                  "site_title": "Opinión",
-                  "site_about": null,
-                  "site_description": "Opinión del Diario EL UNIVERSO sobre temas actuales del Ecuador y del mundo",
-                  "pagebuilder_path_for_native_apps": null,
-                  "site_keywords": "opinion, noticias ecuador, noticias de Ecuador, noticias guayaquil, noticias de guayaquil, diario, universo, eluniverso.com, eluniverso"
-                },
-                "site_topper": {
-                  "site_logo_image": null
-                },
-                "social": {
-                  "twitter": null,
-                  "rss": null,
-                  "facebook": null,
-                  "instagram": null
-                },
-                "navigation": {
-                  "nav_title": "Opinión"
-                },
-                "_admin": {
-                  "alias_ids": ["/opinion"]
-                },
-                "_website": "el-universo",
-                "name": "Opinión",
-                "order": {
-                  "default": 1005,
-                  "SideNav": 3004,
-                  "MainMenu": 1004,
-                  "sitemap": 2010
-                },
-                "parent": {
-                  "default": "/",
-                  "Footer": null,
-                  "SideNav": "/Sidenav/secciones",
-                  "MainMenu": "/",
-                  "Sitemap": null,
-                  "composer": null,
-                  "sitemap": "/sitemap"
-                },
-                "ancestors": {
-                  "default": ["/"],
-                  "Footer": [],
-                  "SideNav": ["/", "/Sidenav", "/Sidenav/secciones"],
-                  "MainMenu": ["/"],
-                  "Sitemap": [],
-                  "composer": [],
-                  "sitemap": ["/sitemap"]
-                },
-                "inactive": false,
-                "node_type": "section"
-              }
-            },
-            "_website_section_id": "el-universo./opinion"
-          }
-        ],
-        "sites": [
-          {
-            "_id": "/opinion/cartas-al-director",
-            "type": "site",
-            "version": "0.5.8",
-            "name": "Cartas al Director",
-            "description": "Encuentra las últimas noticias, fotos y videos de Cartas al Director en El Universo.",
-            "path": "/opinion/cartas-al-director",
-            "parent_id": "/opinion",
-            "additional_properties": {
-              "original": {
-                "_id": "/opinion/cartas-al-director",
-                "site": {
-                  "site_tagline": null,
-                  "site_url": null,
-                  "site_title": "Noticias de Cartas al Director",
-                  "site_about": null,
-                  "site_description": "Encuentra las últimas noticias, fotos y videos de Cartas al Director en El Universo.",
-                  "pagebuilder_path_for_native_apps": null,
-                  "site_keywords": "Cartas al Director, noticias de Cartas al Director, guayaquil, fotos de Cartas al Director, videos de Cartas al Director"
-                },
-                "site_topper": {
-                  "site_logo_image": null
-                },
-                "social": {
-                  "twitter": null,
-                  "rss": null,
-                  "facebook": null,
-                  "instagram": null
-                },
-                "navigation": {
-                  "nav_title": "Cartas al Director"
-                },
-                "name": "Cartas al Director",
-                "parent": {
-                  "default": "/opinion",
-                  "SideNav": "/opinion",
-                  "MainMenu": "/opinion",
-                  "Sitemap": null,
-                  "composer": "/",
-                  "sitemap": "/sitemap"
-                },
-                "ancestors": {
-                  "default": ["/", "/opinion"],
-                  "SideNav": [
-                    "/",
-                    "/Sidenav",
-                    "/Sidenav/secciones",
-                    "/opinion"
-                  ],
-                  "MainMenu": ["/", "/opinion"],
-                  "Sitemap": [],
-                  "composer": ["/"],
-                  "sitemap": ["/sitemap"]
-                },
-                "_admin": {
-                  "alias_ids": ["/opinion/cartas-al-director"]
-                },
-                "inactive": false,
-                "node_type": "section",
-                "order": {
-                  "default": 2004,
-                  "SideNav": 4004,
-                  "MainMenu": 2004,
-                  "composer": 1012,
-                  "sitemap": 2014
-                }
-              }
-            }
-          },
-          {
-            "_id": "/opinion",
-            "type": "site",
-            "version": "0.5.8",
-            "name": "Opinión",
-            "description": "Opinión del Diario EL UNIVERSO sobre temas actuales del Ecuador y del mundo",
-            "path": "/opinion",
-            "parent_id": "/",
-            "additional_properties": {
-              "original": {
-                "_id": "/opinion",
-                "site": {
-                  "site_tagline": null,
-                  "site_url": null,
-                  "site_title": "Opinión",
-                  "site_about": null,
-                  "site_description": "Opinión del Diario EL UNIVERSO sobre temas actuales del Ecuador y del mundo",
-                  "pagebuilder_path_for_native_apps": null,
-                  "site_keywords": "opinion, noticias ecuador, noticias de Ecuador, noticias guayaquil, noticias de guayaquil, diario, universo, eluniverso.com, eluniverso"
-                },
-                "site_topper": {
-                  "site_logo_image": null
-                },
-                "social": {
-                  "twitter": null,
-                  "rss": null,
-                  "facebook": null,
-                  "instagram": null
-                },
-                "navigation": {
-                  "nav_title": "Opinión"
-                },
-                "_admin": {
-                  "alias_ids": ["/opinion"]
-                },
-                "name": "Opinión",
-                "order": {
-                  "default": 1005,
-                  "SideNav": 3004,
-                  "MainMenu": 1004,
-                  "sitemap": 2010
-                },
-                "parent": {
-                  "default": "/",
-                  "Footer": null,
-                  "SideNav": "/Sidenav/secciones",
-                  "MainMenu": "/",
-                  "Sitemap": null,
-                  "composer": null,
-                  "sitemap": "/sitemap"
-                },
-                "ancestors": {
-                  "default": ["/"],
-                  "Footer": [],
-                  "SideNav": ["/", "/Sidenav", "/Sidenav/secciones"],
-                  "MainMenu": ["/"],
-                  "Sitemap": [],
-                  "composer": [],
-                  "sitemap": ["/sitemap"]
-                },
-                "inactive": false,
-                "node_type": "section"
-              }
-            }
-          }
-        ],
-        "tags": [
-          {
-            "description": "Elecciones",
-            "slug": "elecciones",
-            "text": "Elecciones"
-          },
-          {
-            "description": "Política",
-            "slug": "politica",
-            "text": "Política"
-          },
-          {
-            "description": "Gobernabilidad",
-            "slug": "gobernabilidad",
-            "text": "Gobernabilidad"
-          },
-          {
-            "description": "Políticos",
-            "slug": "politicos",
-            "text": "Políticos"
-          },
-          {
-            "description": "Votaciones",
-            "slug": "votaciones",
-            "text": "Votaciones"
-          },
-          {
-            "description": "Ciudadanía",
-            "slug": "ciudadania",
-            "text": "Ciudadanía"
-          }
-        ]
-      },
-      "related_content": {
-        "basic": [],
-        "redirect": []
-      },
-      "distributor": {
-        "category": "staff",
-        "name": "eluniverso",
-        "subcategory": ""
-      },
-      "canonical_website": "el-universo",
-      "planning": {
-        "internal_note": "",
-        "story_length": {
-          "character_count_actual": 619,
-          "character_encoding": "UTF-16",
-          "inch_count_actual": 1,
-          "line_count_actual": 4,
-          "word_count_actual": 87
-        }
-      },
-      "display_date": "2023-06-13T05:01:00Z",
-      "credits": {
-        "by": [
-          {
-            "_id": "sandra-tapia",
-            "type": "author",
-            "version": "0.5.8",
-            "name": "Sandra Tapia",
-            "image": {
-              "url": "https://cloudfront-us-east-1.images.arcpublishing.com/eluniverso/GN3BTGH6OFDTJLYWEBHT7F2NGA.jpg",
-              "version": "0.5.8"
-            },
-            "url": "/autor/sandra-tapia",
-            "slug": "sandra-tapia",
-            "social_links": [
-              {
-                "site": "email",
-                "url": "stapia@eluniverso.com"
-              }
-            ],
-            "socialLinks": [
-              {
-                "site": "email",
-                "url": "stapia@eluniverso.com",
-                "deprecated": true,
-                "deprecation_msg": "Please use social_links."
-              }
-            ],
-            "additional_properties": {
-              "original": {
-                "_id": "sandra-tapia",
-                "type": "author",
-                "author_type": "periodista",
-                "role": "periodista",
-                "email": "stapia@eluniverso.com",
-                "image": "https://cloudfront-us-east-1.images.arcpublishing.com/eluniverso/GN3BTGH6OFDTJLYWEBHT7F2NGA.jpg",
-                "bio_page": "/autor/sandra-tapia",
-                "firstName": "Sandra",
-                "lastName": "Tapia",
-                "slug": "sandra-tapia",
-                "byline": "Sandra Tapia",
-                "status": true,
-                "last_updated_date": "2021-01-06T06:05:10.903Z",
-                "books": [],
-                "podcasts": [],
-                "education": [],
-                "awards": []
-              }
-            }
-          }
-        ]
-      },
-      "subtype": "default",
-      "first_publish_date": "2023-06-13T05:01:00.213Z",
-      "websites": {
-        "el-universo": {
-          "website_section": {
-            "_id": "/opinion/cartas-al-director",
-            "_website": "el-universo",
-            "type": "section",
-            "version": "0.6.0",
-            "name": "Cartas al Director",
-            "description": "Encuentra las últimas noticias, fotos y videos de Cartas al Director en El Universo.",
-            "path": "/opinion/cartas-al-director",
-            "parent_id": "/opinion",
-            "parent": {
-              "default": "/opinion"
-            },
-            "additional_properties": {
-              "original": {
-                "_id": "/opinion/cartas-al-director",
-                "site": {
-                  "site_tagline": null,
-                  "site_url": null,
-                  "site_title": "Noticias de Cartas al Director",
-                  "site_about": null,
-                  "site_description": "Encuentra las últimas noticias, fotos y videos de Cartas al Director en El Universo.",
-                  "pagebuilder_path_for_native_apps": null,
-                  "site_keywords": "Cartas al Director, noticias de Cartas al Director, guayaquil, fotos de Cartas al Director, videos de Cartas al Director"
-                },
-                "site_topper": {
-                  "site_logo_image": null
-                },
-                "social": {
-                  "twitter": null,
-                  "rss": null,
-                  "facebook": null,
-                  "instagram": null
-                },
-                "navigation": {
-                  "nav_title": "Cartas al Director"
-                },
-                "name": "Cartas al Director",
-                "_website": "el-universo",
-                "parent": {
-                  "default": "/opinion",
-                  "SideNav": "/opinion",
-                  "MainMenu": "/opinion",
-                  "Sitemap": null,
-                  "composer": "/",
-                  "sitemap": "/sitemap"
-                },
-                "ancestors": {
-                  "default": ["/", "/opinion"],
-                  "SideNav": [
-                    "/",
-                    "/Sidenav",
-                    "/Sidenav/secciones",
-                    "/opinion"
-                  ],
-                  "MainMenu": ["/", "/opinion"],
-                  "Sitemap": [],
-                  "composer": ["/"],
-                  "sitemap": ["/sitemap"]
-                },
-                "_admin": {
-                  "alias_ids": ["/opinion/cartas-al-director"]
-                },
-                "inactive": false,
-                "node_type": "section",
-                "order": {
-                  "default": 2004,
-                  "SideNav": 4004,
-                  "MainMenu": 2004,
-                  "composer": 1012,
-                  "sitemap": 2014
-                }
-              }
-            },
-            "_website_section_id": "el-universo./opinion/cartas-al-director"
-          },
-          "website_url": "/opinion/cartas-al-director/acerca-de-voto-y-eleccion-nota/"
-        }
-      },
-      "additional_properties": {
-        "clipboard": {},
-        "has_published_copy": true
-      },
-      "publish_date": "2023-06-13T05:01:00.213Z",
-      "canonical_url": "/opinion/cartas-al-director/acerca-de-voto-y-eleccion-nota/",
-      "publishing": {
-        "scheduled_operations": {
-          "publish_edition": [],
-          "unpublish_edition": []
-        }
-      },
-      "_id": "AJKMKX2KQJEHNFPOSHKFDIV5TM",
-      "website": "el-universo",
-      "website_url": "/opinion/cartas-al-director/acerca-de-voto-y-eleccion-nota/"
-    }
-  ],
-  "additional_properties": {
-    "took": 9,
-    "timed_out": false
-  },
-  "count": 1362,
-  "next": 2
+    "count": 1362,
+    "next": 196,
+    "previous": 192
 }
